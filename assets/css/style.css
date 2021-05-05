@@ -1,0 +1,16 @@
+
+
+#outer-logo {
+    background-color: black;
+    float: left;
+    height: 150px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+#logo {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
