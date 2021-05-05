@@ -3,8 +3,10 @@
 body {
     font-family: quicksand, sans-serif;
     font-weight: 300;
-    color: white;
+    color: black;
 }
+
+/* Logo */
 
 #outer-logo {
     background-color: black;
