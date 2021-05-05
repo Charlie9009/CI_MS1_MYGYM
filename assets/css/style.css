@@ -50,3 +50,23 @@ nav {
 #menu a:hover {
     border-bottom: 1px solid black;
 }
+
+/* Log In, Sign Up Menu */
+
+#right-menu {
+    list-style: none;
+    float: right;
+    margin-top: 10px;
+    margin-right: 100px;
+}
+
+#right-menu li {
+    display: inline;
+}
+
+#right-menu a {
+    display: inline-block;
+    font-size: 150%;
+    text-decoration: none;
+    color: black;
+}
