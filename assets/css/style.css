@@ -15,6 +15,7 @@ body {
     width: 13%;
     margin-top: 10px;
     margin-left: 100px;
+    position: absolute;
 }
 
 #logo {
@@ -26,6 +27,26 @@ body {
 
 /* Navigation Links */
 
-#menu {
+nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: relative;
+}
+
+#menu li {
+    display: inline;
+}
+
+#menu a {
     font-size: 150%;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid black;
 }
