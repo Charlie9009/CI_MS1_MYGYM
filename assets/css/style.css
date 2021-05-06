@@ -15,12 +15,15 @@ body {
     width: 13%;
     margin-top: 20px;
     margin-left: 100px;
-    position: absolute;
+    position: relative;
+    display: table;
 }
 
 #logo {
     color: white;
     text-align: center;
+    vertical-align: middle;
+    display: table-cell;
     margin-top: 50px;
     font-size: 200%;
 }
