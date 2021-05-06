@@ -13,7 +13,7 @@ body {
     float: left;
     height: 150px;
     width: 13%;
-    margin-top: 10px;
+    margin-top: 20px;
     margin-left: 100px;
     position: absolute;
 }
@@ -43,6 +43,7 @@ nav {
     font-size: 150%;
     display: inline-block;
     padding: 10px;
+    margin-top: 70px;
     text-decoration: none;
     color: inherit;
 }
@@ -53,20 +54,7 @@ nav {
 
 /* Log In, Sign Up Menu */
 
-#right-menu {
+.menu-right {
     list-style: none;
     float: right;
-    margin-top: 10px;
-    margin-right: 100px;
-}
-
-#right-menu li {
-    display: inline;
-}
-
-#right-menu a {
-    display: inline-block;
-    font-size: 150%;
-    text-decoration: none;
-    color: black;
 }
