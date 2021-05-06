@@ -7,22 +7,15 @@ body {
 }
 
 /* Logo */
-
 #outer-logo {
     background-color: black;
     float: left;
-    /* height: 150px;
-    width: 13%; */
-    /* margin-top: 10px;
-    margin-left: 100px; */
-    /* position: absolute; */
 }
 
 
 #logo {
     color: white;
     text-align: center;
-    /* margin-top: 50px; */
     font-size: 200%;
 }
 
@@ -53,7 +46,6 @@ nav {
 }
 
 /* Log In, Sign Up Menu */
-
 .menu-right {
     list-style: none;
     float: right;
