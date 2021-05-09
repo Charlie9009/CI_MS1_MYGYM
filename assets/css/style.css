@@ -176,7 +176,7 @@ footer {
     position: fixed;
     left: 0px;
     bottom: 0px;
-    height: 70px;
+    height: 80px;
     width: 100%;
     background-color: grey;
 }
@@ -184,4 +184,16 @@ footer {
 .column {
     float: left;
     width: 33.33%;
-  }
+}
+
+.column li {
+    list-style: none;
+    text-decoration: none;
+    color: inherit;
+}
+
+.column a {
+    list-style: none;
+    text-decoration: none;
+    color: inherit;
+}
