@@ -145,6 +145,27 @@ nav {
 }
 
 #image-right img {
-    height: 500px;
+    height: 400px;
     width: 1000px;
+}
+
+/* Online Workout section */
+
+.online-training {
+    display: inline-block;
+}
+
+#online-text-right {
+    float: right;
+    text-align: center;
+    vertical-align: top;
+    width: 40%;
+    margin: 120px 100px 0 0;
+}
+
+#image-left {
+    float: left;
+    display: inline-block;
+    width: 40%;
+    margin: 50px 0 0 80px;
 }
