@@ -141,3 +141,8 @@ nav {
 .place {
     display: inline-block;
 }
+
+#image-right img {
+    height: 500px;
+    width: 1000px;
+}
