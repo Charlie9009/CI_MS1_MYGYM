@@ -203,3 +203,8 @@ footer {
     margin: 5% 30%;
     display: inline;
 }
+
+#right-footer {
+    float: right;
+    margin-right: 50px;
+}
