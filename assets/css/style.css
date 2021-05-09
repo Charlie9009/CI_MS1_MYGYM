@@ -129,17 +129,19 @@ nav {
     display: inline-block;
 }
 
-#text-left {
+#group-text-left {
     float: left;
+    text-align: center;
+    vertical-align: top;
+    width: 25%;
+    margin: 100px 0 0 50px;
 }
 
 #image-right {
     float: right;
     display: inline-block;
-}
-
-.place {
-    display: inline-block;
+    width: 65%;
+    margin-right: 40px;
 }
 
 #image-right img {
