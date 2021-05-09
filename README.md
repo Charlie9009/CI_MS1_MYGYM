@@ -34,3 +34,9 @@ Website Developer
 
 <li>I want the customer to feel it's worth signing up for the service.</li>
 </ul>
+
+
+code credit
+
+modal
+https://www.codehim.com/bootstrap/bootstrap-4-modal-popup-login-form/
