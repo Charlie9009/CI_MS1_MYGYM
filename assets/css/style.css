@@ -112,11 +112,32 @@ nav {
     padding: 0.3rem 0rem;
 }
 
+/* Carousel */
+
 .carousel {
     margin: 50px 50px;
 }
 
-img {
+.carousel-item img {
     height: 700px;
     width: 500px;
+}
+
+/* Group training section */
+
+.group-training {
+    display: inline-block;
+}
+
+#text-left {
+    float: left;
+}
+
+#image-right {
+    float: right;
+    display: inline-block;
+}
+
+.place {
+    display: inline-block;
 }
