@@ -197,3 +197,9 @@ footer {
     text-decoration: none;
     color: inherit;
 }
+
+.column i {
+    font-size: 150%;
+    margin: 5% 30%;
+    display: inline;
+}
