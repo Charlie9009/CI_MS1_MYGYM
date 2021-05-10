@@ -43,3 +43,6 @@ https://www.codehim.com/bootstrap/bootstrap-4-modal-popup-login-form/
 
 carousel
 https://getbootstrap.com/docs/4.0/components/carousel/
+
+Timetable/Schedule
+https://www.bootdey.com/snippets/view/time-table#html
