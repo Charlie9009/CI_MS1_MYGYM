@@ -148,7 +148,7 @@ nav {
     width: 1000px;
 }
 
-/* Online Workout section */
+/* Online Workout text section */
 
 .online-training {
     display: inline-block;
@@ -207,7 +207,7 @@ footer {
     margin-right: 50px;
 }
 
-/* schedule */
+/* Schedule */
 
 .container {
     margin-top: 100px;
@@ -324,4 +324,11 @@ body{
     padding: .75rem;
     vertical-align: top;
     border-top: 1px solid #dee2e6;
+}
+
+/* Workoutonline.html section */
+
+.left-video-column {
+    float: left;
+    margin: 70px 50px;
 }
