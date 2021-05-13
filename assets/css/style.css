@@ -328,7 +328,11 @@ body{
 
 /* Workoutonline.html section */
 
-.left-video-column {
+.left-text-column {
     float: left;
     margin: 70px 50px;
+    text-align: center;
 }
+
+
+
