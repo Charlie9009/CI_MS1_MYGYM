@@ -352,3 +352,8 @@ body{
     float: right;
     margin: 130px 150px 0 0;
 }
+
+.form-text {
+    float: left;
+    padding-left: 10px;
+}
