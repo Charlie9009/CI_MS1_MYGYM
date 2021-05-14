@@ -122,8 +122,13 @@ nav {
 
 /* Carousel */
 
-.carousel {
+#carousel {
     margin: 50px 50px;
+    clear: both;
+}
+
+.carousel {
+    
 }
 
 .carousel-item img {
