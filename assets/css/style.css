@@ -349,6 +349,9 @@ body{
 /* Form */
 
 .question-form {
+    width: 700px;
+    background-color: rgb(182, 182, 182);
+    border: 1px solid black;
     float: right;
     margin: 130px 150px 0 0;
 }
