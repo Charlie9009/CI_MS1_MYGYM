@@ -8,14 +8,17 @@ body {
 
 /* Logo */
 
+.float-logo-left {
+    float: left;
+    width: 33%;
+}
+
 #outer-logo {
     background-color: black;
-    float: left;
     height: 150px;
     width: 250px;
     margin-top: 20px;
     margin-left: 50px;
-    position: relative;
     display: table;
 }
 
@@ -36,6 +39,8 @@ nav {
     padding: 0;
     text-align: center;
     position: relative;
+    float: left;
+    width: 33%;
 }
 
 #menu li {
