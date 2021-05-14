@@ -19,7 +19,7 @@
 
 <body>
     <header>
-        <div>
+        <div class="float-logo-left">
             <a href="index.html">
                 <div id="outer-logo">
                     <h1 id="logo">My Gym</h1>
@@ -39,66 +39,67 @@
                     <li>
                         <a href="contact.html">Contact</a>
                     </li>
-
-                    <button type="button" id="login-button" class="btn btn-info btn-round" data-toggle="modal"
-                        data-target="#loginModal">
-                        Login
-                    </button>
-
-                    <!-- Modal HTML -->
-                    <div class="modal fade" id="loginModal" tabindex="-1" role="dialog"
-                        aria-labelledby="exampleModalLabel" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header border-bottom-0">
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">×</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <div class="form-title text-center">
-                                        <h4>Login</h4>
-                                    </div>
-                                    <div class="d-flex flex-column text-center">
-                                        <form>
-                                            <div class="form-group">
-                                                <input type="email" class="form-control" id="email1"
-                                                    placeholder="Your email address...">
-                                            </div>
-                                            <div class="form-group">
-                                                <input type="password" class="form-control" id="password1"
-                                                    placeholder="Your password...">
-                                            </div>
-                                            <button type="button"
-                                                class="btn btn-info btn-block btn-round">Login</button>
-                                        </form>
-
-                                        <div class="text-center text-muted delimiter">or use a social network</div>
-                                        <div class="d-flex justify-content-center social-buttons">
-                                            <button type="button" class="btn btn-secondary btn-round"
-                                                data-toggle="tooltip" data-placement="top" title="Twitter">
-                                                <i class="fab fa-twitter"></i>
-                                            </button>
-                                            <button type="button" class="btn btn-secondary btn-round"
-                                                data-toggle="tooltip" data-placement="top" title="Facebook">
-                                                <i class="fab fa-facebook"></i>
-                                            </button>
-                                            <button type="button" class="btn btn-secondary btn-round"
-                                                data-toggle="tooltip" data-placement="top" title="Linkedin">
-                                                <i class="fab fa-linkedin"></i>
-                                            </button>
-                                            </di>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="modal-footer d-flex justify-content-center">
-                                    <div class="signup-section">Not a member yet? <a href="#a" class="text-info"> Sign
-                                            Up</a>.</div>
-                                </div>
-                            </div>
-                        </div>
                 </ul>
             </nav>
+        </div>
+
+        <button type="button" id="login-button" class="btn btn-info btn-round" data-toggle="modal"
+            data-target="#loginModal">
+            Login
+        </button>
+
+        <!-- Modal HTML -->
+        <div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header border-bottom-0">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">×</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-title text-center">
+                            <h4>Login</h4>
+                        </div>
+                        <div class="d-flex flex-column text-center">
+                            <form>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="email1"
+                                        placeholder="Your email address...">
+                                </div>
+                                <div class="form-group">
+                                    <input type="password" class="form-control" id="password1"
+                                        placeholder="Your password...">
+                                </div>
+                                <button type="button" class="btn btn-info btn-block btn-round">Login</button>
+                            </form>
+
+                            <div class="text-center text-muted delimiter">or use a social network</div>
+                            <div class="d-flex justify-content-center social-buttons">
+                                <button type="button" class="btn btn-secondary btn-round" data-toggle="tooltip"
+                                    data-placement="top" title="Twitter">
+                                    <i class="fab fa-twitter"></i>
+                                </button>
+                                <button type="button" class="btn btn-secondary btn-round" data-toggle="tooltip"
+                                    data-placement="top" title="Facebook">
+                                    <i class="fab fa-facebook"></i>
+                                </button>
+                                <button type="button" class="btn btn-secondary btn-round" data-toggle="tooltip"
+                                    data-placement="top" title="Linkedin">
+                                    <i class="fab fa-linkedin"></i>
+                                </button>
+                                </di>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer d-flex justify-content-center">
+                        <div class="signup-section">Not a member yet? <a href="#a" class="text-info"> Sign
+                                Up</a>.</div>
+                    </div>
+                </div>
+            </div>
+            
         </div>
     </header>
 
@@ -106,27 +107,39 @@
         <div class="row">
             <div class="video-column">
                 <h2>Abs</h2>
-                <iframe width="500" height="300" src="https://www.youtube.com/embed/DHD1-2P94DI"><p>Sorry, your browser doesn't support iframes!</p></iframe>
+                <iframe width="500" height="300" src="https://www.youtube.com/embed/DHD1-2P94DI">
+                    <p>Sorry, your browser doesn't support iframes!</p>
+                </iframe>
             </div>
             <div class="video-column">
                 <h2>Fat Burning Workout</h2>
-                <iframe width="500" height="300" src="https://www.youtube.com/embed/cfetualiJqs"><p>Sorry, your browser doesn't support iframes!</p></iframe>
+                <iframe width="500" height="300" src="https://www.youtube.com/embed/cfetualiJqs">
+                    <p>Sorry, your browser doesn't support iframes!</p>
+                </iframe>
             </div>
             <div class="video-column">
                 <h2>Chest</h2>
-                <iframe width="500" height="300" src="https://www.youtube.com/embed/rxEMKXW2Wqs"><p>Sorry, your browser doesn't support iframes!</p></iframe>
+                <iframe width="500" height="300" src="https://www.youtube.com/embed/rxEMKXW2Wqs">
+                    <p>Sorry, your browser doesn't support iframes!</p>
+                </iframe>
             </div>
             <div class="video-column">
                 <h2>Legs</h2>
-                <iframe width="500" height="300" src="https://www.youtube.com/embed/SaohpJ1o_Lg"><p>Sorry, your browser doesn't support iframes!</p></iframe>
+                <iframe width="500" height="300" src="https://www.youtube.com/embed/SaohpJ1o_Lg">
+                    <p>Sorry, your browser doesn't support iframes!</p>
+                </iframe>
             </div>
             <div class="video-column">
                 <h2>Back</h2>
-                <iframe width="500" height="300" src="https://www.youtube.com/embed/mjnseqLiVXM"><p>Sorry, your browser doesn't support iframes!</p></iframe>
+                <iframe width="500" height="300" src="https://www.youtube.com/embed/mjnseqLiVXM">
+                    <p>Sorry, your browser doesn't support iframes!</p>
+                </iframe>
             </div>
             <div class="video-column">
                 <h2>Arms</h2>
-                <iframe width="500" height="300" src="https://www.youtube.com/embed/v07X1a7nOAE"><p>Sorry, your browser doesn't support iframes!</p></iframe>
+                <iframe width="500" height="300" src="https://www.youtube.com/embed/v07X1a7nOAE">
+                    <p>Sorry, your browser doesn't support iframes!</p>
+                </iframe>
             </div>
         </div>
 
