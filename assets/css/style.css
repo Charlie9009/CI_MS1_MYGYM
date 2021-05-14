@@ -343,5 +343,12 @@ body{
 
 #contact-info {
     float: left;
-    margin: 150px 60px 0 0;
+    margin: 200px 0 0 60px;
+}
+
+/* Form */
+
+.form {
+    float: right;
+    margin: 130px 150px 0 0;
 }
