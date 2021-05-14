@@ -330,7 +330,7 @@ body{
 
 .video-column {
     float: left;
-    margin: 70px 50px;
+    margin: 70px 50px 80px 50px;
     text-align: center;
 }
 
