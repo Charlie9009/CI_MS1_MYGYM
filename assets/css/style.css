@@ -339,4 +339,9 @@ body{
     clear: both;
 }
 
+/* Contact */
 
+#contact-info {
+    float: left;
+    margin: 150px 60px 0 0;
+}
