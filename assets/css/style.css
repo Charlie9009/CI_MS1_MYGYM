@@ -343,10 +343,11 @@ body{
 
 #contact-info {
     float: left;
-    margin: 200px 0 0 60px;
+    clear: left;
+    margin: 200px 0 0 300px;
 }
 
-/* Form */
+/* Question Form */
 
 .question-form {
     width: 700px;
@@ -368,4 +369,12 @@ body{
     position: absolute;
     bottom: 5px;
     right: 5px;
+}
+
+/* Location */
+
+#location {
+    clear: left;
+    float: left;
+    margin: 150px 0 0 300px;
 }
