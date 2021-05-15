@@ -10,7 +10,7 @@ body {
 
 .float-logo-left {
     float: left;
-    width: 33%;
+    width: 30%;
 }
 
 #outer-logo {
@@ -34,7 +34,7 @@ body {
 
 nav {
     list-style: none;
-    margin: 20px;
+    margin: 20px 0 0 0;
     padding: 0;
     text-align: center;
     position: relative;
@@ -65,12 +65,12 @@ nav {
 
 .float-right {
     list-style: none;
-    margin: 20px;
+    margin: 20px 10% 0 0;
     padding: 0;
     text-align: center;
     position: relative;
     float: left;
-    width: 25%;
+    width: 15%;
     height: 150px;
     
 }
