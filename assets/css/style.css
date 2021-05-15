@@ -17,8 +17,7 @@ body {
     background-color: black;
     height: 150px;
     width: 250px;
-    margin-top: 20px;
-    margin-left: 50px;
+    margin: 20px 0 0 10%;
     display: table;
 }
 
