@@ -76,9 +76,8 @@ nav {
     font-size: 150%;
 }
 
-#login-button :hover {
+#login-button:hover {
     border: 1px solid black;
-
 }
 
 .container {
