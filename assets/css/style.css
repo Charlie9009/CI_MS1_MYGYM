@@ -369,9 +369,8 @@ body{
 }
 
 .video-column {
-    float: left;
-    clear: left; 
-    margin: 70px 50px 80px 50px;
+    width: 35%;
+    margin: 5% auto 5% 10%;
     text-align: center;
 }
 
