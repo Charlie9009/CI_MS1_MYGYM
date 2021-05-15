@@ -122,13 +122,19 @@ nav {
 /* Carousel */
 
 #carousel {
-    margin: 50px 50px;
-    clear: both;
+    margin: 1% 10%;
+    display: inline-block;
+    width: 80%;
 }
 
-.carousel-item img {
-    height: 700px;
-    width: 500px;
+.carousel-inner {
+    margin: auto;
+}
+
+.carousel-inner > .carousel-item > img {
+    height: 80%;
+    width: 100%;
+    margin: auto;
 }
 
 /* Group training section */
