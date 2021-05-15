@@ -164,13 +164,13 @@ nav {
     text-align: center;
     vertical-align: top;
     width: 25%;
-    margin: 100px 0 0 50px;
+    margin: 100px 0 0 5%;
 }
 
 #image-right {
     float: right;
     width: 65%;
-    margin-right: 40px;
+    margin-right: 5%;
 }
 
 #image-right img {
