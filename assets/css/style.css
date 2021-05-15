@@ -427,6 +427,6 @@ body{
 }
 
 #map > iframe {
-    width: 1000px;
-    height: 300px;
+    width: 80%;
+    height: 100%;
 }
