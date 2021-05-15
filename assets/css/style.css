@@ -417,7 +417,8 @@ body{
     clear: left;
     float: left;
     text-align: left;
-    margin: 150px 0 0 300px;
+    margin: 20% 0 0 10%;
+    position: relative;
 }
 
 #map {
