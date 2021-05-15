@@ -16,7 +16,7 @@ body {
 #outer-logo {
     background-color: black;
     height: 150px;
-    width: 250px;
+    width: 50%;
     margin: 20px 0 0 10%;
     display: table;
 }
