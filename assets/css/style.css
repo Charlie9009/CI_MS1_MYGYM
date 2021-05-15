@@ -89,6 +89,7 @@ nav {
     text-decoration: none;
     color: white;
     background-color: black;
+    border-color: black;
 }
 
 #login-button:hover {
