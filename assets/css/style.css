@@ -239,6 +239,7 @@ footer {
 #right-footer {
     float: right;
     margin-right: 50px;
+    font-size: 100%;
 }
 
 /* Schedule */
