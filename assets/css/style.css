@@ -157,7 +157,7 @@ nav {
 
 .carousel-inner > .carousel-item > img {
     height: 80%;
-    width: 100%;
+    max-width: 100%;
     margin: auto;
 }
 
