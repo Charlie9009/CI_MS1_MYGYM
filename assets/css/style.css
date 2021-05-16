@@ -222,6 +222,7 @@ footer {
     list-style: none;
     text-decoration: none;
     color: inherit;
+    font-size: 100%;
 }
 
 .column a {
@@ -239,7 +240,6 @@ footer {
 #right-footer {
     float: right;
     margin-right: 50px;
-    font-size: 100%;
 }
 
 /* Schedule */
