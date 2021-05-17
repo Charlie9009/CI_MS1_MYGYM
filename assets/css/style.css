@@ -426,6 +426,10 @@ iframe {
 
 /* Contact */
 
+#container-contact-info {
+    
+}
+
 #contact-info {
     float: left;
     clear: left;
