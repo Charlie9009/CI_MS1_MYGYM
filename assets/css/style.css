@@ -163,6 +163,7 @@ nav {
     vertical-align: top;
     width: 25%;
     margin: 5% 0 0 5%;
+    font-size: 80%;
 }
 
 #image-right {
@@ -188,6 +189,7 @@ nav {
     vertical-align: top;
     width: 40%;
     margin: 15% 10% 0 0;
+    font-size: 80%;
 }
 
 #image-left {
@@ -459,8 +461,11 @@ iframe {
 }
 
 @media screen and (max-width: 650px){
+
     .carousel-text {
         display: none;
+
+
     }
 }
 
