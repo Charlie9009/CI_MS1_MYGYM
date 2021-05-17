@@ -522,8 +522,14 @@ iframe {
 
     .carousel-text {
         display: none;
+    }
 
+    /* Online Videos */
 
+    iframe {
+        width: 350px;
+        height: 200px;
+        border: 1px solid black;
     }
 }
 
