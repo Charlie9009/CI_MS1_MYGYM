@@ -543,24 +543,6 @@ fieldset {
         width: 90%;
     }
 
-    /* Online workout section */
-
-    .online-training {
-        clear: both;
-    }
-
-    #online-text-right {
-        width: 70%;
-        margin: 0 15% 80px 15%;
-        text-align: center;
-    }
-
-    #image-left {
-        width: 70%;
-        height: 80%;
-        margin: 15px 15%;
-    }
-
     /* Online Videos */
 
     .row,
@@ -574,6 +556,24 @@ fieldset {
 
     .carousel-text {
         display: none;
+    }
+
+    /* Online training column */
+
+    .online-training-column {
+        clear: both;
+    }
+
+    #online-training-column-text {
+        width: 70%;
+        margin: 0 15% 80px 15%;
+        text-align: center;
+    }
+
+    #online-training-column-image {
+        width: 70%;
+        height: 80%;
+        margin: 15px 15%;
     }
 
     /* Online Videos */
