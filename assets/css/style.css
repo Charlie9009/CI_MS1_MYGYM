@@ -443,10 +443,14 @@ iframe {
 
 /* Question Form */
 
+fieldset {
+    color: white;
+}
+
 .question-form {
     width: 600px;
     height: 375px;
-    background-color: rgb(182, 182, 182);
+    background-color: black;
     border: 1px solid black;
     float: right;
     margin: 10% 10% 0 0;
@@ -456,6 +460,7 @@ iframe {
 .form-text {
     float: left;
     padding-left: 10px;
+    color: white;
 }
 
 #submit-reset-button {
@@ -464,6 +469,16 @@ iframe {
     position: absolute;
     bottom: 5px;
     right: 5px;
+}
+
+.color-button {
+    background-color: black;
+    color: white;
+}
+
+.color-button:hover {
+    background-color: white;
+    color: black;
 }
 
 /* Location */
