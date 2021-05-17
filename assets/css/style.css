@@ -377,9 +377,13 @@ body{
     float: left;
 }
 
-.video-column {
-    width: 35%;
-    margin: 5% auto 5% 7%;
+.video-column-left {
+    width: 50%;
+    text-align: center;
+}
+
+.video-column-right {
+    width: 50%;
     text-align: center;
 }
 
