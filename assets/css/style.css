@@ -106,17 +106,6 @@ nav {
     padding: 2rem 0rem;
 }
 
-
-@media (min-width: 576px) {
-    .modal-dialog {
-        max-width: 400px;
-    }
-
-    .modal-dialog .modal-content {
-        padding: 1rem;
-    }
-}
-
 .modal-header .close {
     margin-top: -1.5rem;
 }
