@@ -13,7 +13,9 @@ span {
 
 /* Logo, Nav, loginbutton */
 
-h1, nav, #login-button {
+h1,
+nav,
+#login-button {
     text-transform: uppercase;
 }
 
@@ -146,7 +148,7 @@ nav {
     margin: auto;
 }
 
-.carousel-inner > .carousel-item > img {
+.carousel-inner>.carousel-item>img {
     height: 80%;
     width: 100%;
     margin: auto;
@@ -242,7 +244,8 @@ footer {
     width: 50%;
 }
 
-#right-footer, #middle-footer {
+#right-footer,
+#middle-footer {
     width: 25%;
 }
 
@@ -258,20 +261,26 @@ footer {
     width: 100%;
 }
 
-body{
-    margin-top:20px;
+body {
+    margin-top: 20px;
 }
+
 .bg-light-gray {
     background-color: #f7f7f7;
 }
-.table-bordered thead td, .table-bordered thead th {
+
+.table-bordered thead td,
+.table-bordered thead th {
     border-bottom-width: 2px;
 }
+
 .table thead th {
     vertical-align: bottom;
     border-bottom: 2px solid #dee2e6;
 }
-.table-bordered td, .table-bordered th {
+
+.table-bordered td,
+.table-bordered th {
     border: 1px solid #dee2e6;
 }
 
@@ -337,13 +346,16 @@ body{
     padding-left: 15px;
     padding-right: 15px;
 }
+
 .padding-5px-tb {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
 .margin-10px-bottom {
     margin-bottom: 10px;
 }
+
 .border-radius-5 {
     border-radius: 5px;
 }
@@ -351,6 +363,7 @@ body{
 .margin-10px-top {
     margin-top: 10px;
 }
+
 .font-size14 {
     font-size: 14px;
 }
@@ -358,14 +371,18 @@ body{
 .text-light-gray {
     color: #d6d5d5;
 }
+
 .font-size13 {
     font-size: 13px;
 }
 
-.table-bordered td, .table-bordered th {
+.table-bordered td,
+.table-bordered th {
     border: 1px solid #dee2e6;
 }
-.table td, .table th {
+
+.table td,
+.table th {
     padding: .75rem;
     vertical-align: top;
     border-top: 1px solid #dee2e6;
@@ -452,14 +469,14 @@ iframe {
     text-align: center;
 }
 
-#map > iframe {
+#map>iframe {
     width: 80%;
     height: 100%;
 }
 
 /* Media Queris */
 
-@media screen and (max-width: 950px){
+@media screen and (max-width: 950px) {
 
     /* Login Button */
 
@@ -478,7 +495,7 @@ iframe {
         width: 100%;
     }
 
-    .carousel-inner > .carousel-item > img {
+    .carousel-inner>.carousel-item>img {
         height: 80%;
         width: 100%;
         margin: auto;
@@ -519,12 +536,14 @@ iframe {
 
     /* Online Videos */
 
-    .row, .video-column-left, .video-column-right {
+    .row,
+    .video-column-left,
+    .video-column-right {
         width: 100%;
     }
 }
 
-@media screen and (max-width: 650px){
+@media screen and (max-width: 650px) {
 
     .carousel-text {
         display: none;
