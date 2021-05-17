@@ -510,6 +510,12 @@ iframe {
         height: 80%;
         margin: 15px 15%;
     }
+
+    /* Online Videos */
+
+    .row, .video-column-left, .video-column-right {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 650px){
