@@ -445,6 +445,7 @@ iframe {
 
 .question-form {
     width: 600px;
+    height: 375px;
     background-color: rgb(182, 182, 182);
     border: 1px solid black;
     float: right;
