@@ -427,13 +427,18 @@ iframe {
 /* Contact */
 
 #container-contact-info {
-    
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    float: left;
+    clear: left;
+    margin: 10% 0 0 10%;
 }
 
 #contact-info {
-    float: left;
-    clear: left;
+    
     margin: 15% 0 0 10%;
+    color: white;
 }
 
 /* Question Form */
