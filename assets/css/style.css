@@ -471,13 +471,30 @@ iframe {
 
     #group-text-left {
         width: 90%;
+        text-align: center;
     }
 
     #image-right {
         width: 90%;
     }
 
-    
+    /* Online workout section */
+
+    .online-training {
+        clear: both;
+    }
+
+    #online-text-right {
+        width: 70%;
+        margin: 0 15% 80px 15%;
+        text-align: center;
+    }
+
+    #image-left {
+        width: 70%;
+        height: 80%;
+        margin: 15px 15%;
+    }
 }
 
 @media screen and (max-width: 650px){
