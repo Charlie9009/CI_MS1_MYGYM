@@ -426,6 +426,11 @@ iframe {
 
 /* Contact */
 
+#membership {
+    border-bottom: 2px solid rgb(115, 184, 207);
+    width: 65%;
+}
+
 #container-contact-info {
     width: 400px;
     height: 375px;
