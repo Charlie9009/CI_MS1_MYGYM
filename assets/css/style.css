@@ -432,3 +432,23 @@ iframe {
     height: 100%;
 }
 
+/* Media Queris */
+
+@media screen and (max-width: 950px){
+    
+    .float-right {
+        display: none;
+    }
+}
+
+/* Modal Query */
+
+@media (min-width: 576px) {
+    .modal-dialog {
+        max-width: 400px;
+    }
+
+    .modal-dialog .modal-content {
+        padding: 1rem;
+    }
+}
