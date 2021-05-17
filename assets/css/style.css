@@ -462,6 +462,12 @@ iframe {
     }
 }
 
+@media screen and (max-width: 650px){
+    .remove-beneath {
+        display: none;
+    }
+}
+
 /* Modal Query */
 
 @media (min-width: 576px) {
