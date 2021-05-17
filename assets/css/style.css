@@ -209,14 +209,14 @@ footer {
     position: fixed;
     left: 0px;
     bottom: 0px;
-    height: 80px;
+    height: 100px;
     width: 100%;
-    background-color: rgb(206, 15, 15);
+    background-color: black;
+    color: white;
 }
 
 .column {
     float: left;
-    width: 33.33%;
 }
 
 .column li {
@@ -234,13 +234,15 @@ footer {
 
 .column i {
     font-size: 150%;
-    margin: 5% 30%;
-    display: inline;
+    margin: 0 2px;
 }
 
-#right-footer {
-    float: right;
-    margin-right: 50px;
+#left-footer {
+    width: 50%;
+}
+
+#right-footer, #middle-footer {
+    width: 25%;
 }
 
 /* Schedule */
