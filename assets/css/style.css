@@ -209,7 +209,7 @@ footer {
     position: fixed;
     left: 0px;
     bottom: 0px;
-    height: 100px;
+    height: 120px;
     width: 100%;
     background-color: black;
     color: white;
@@ -243,6 +243,10 @@ footer {
 
 #right-footer, #middle-footer {
     width: 25%;
+}
+
+.uppercase-footer {
+    text-transform: uppercase;
 }
 
 /* Schedule */
