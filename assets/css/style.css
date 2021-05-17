@@ -373,6 +373,12 @@ body{
 
 /* Workoutonline.html section */
 
+#center {
+    clear: both;
+    text-align: center;
+    padding-top: 50px;
+}
+
 .row {
     float: left;
     margin-bottom: 120px;
