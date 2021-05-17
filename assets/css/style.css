@@ -440,12 +440,16 @@ iframe {
 
 @media screen and (max-width: 950px){
 
-    .carousel-text {
-        font-size: 100%;
-    }
-    
+    /* Login Button */
+
     .float-right {
         display: none;
+    }
+
+    /* Carousel */
+
+    .carousel-text {
+        font-size: 100%;
     }
 
     #carousel {
@@ -458,6 +462,9 @@ iframe {
         width: 100%;
         margin: auto;
     }
+
+    /* Online text section */
+    
 }
 
 @media screen and (max-width: 650px){
