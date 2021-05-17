@@ -437,6 +437,14 @@ iframe {
 /* Media Queris */
 
 @media screen and (max-width: 950px){
+
+    #carousel, h5, p {
+        font-size: 70%;
+    }
+
+    #carousel > h5, p {
+        clear: both;
+    }
     
     .float-right {
         display: none;
@@ -444,6 +452,13 @@ iframe {
 
     #carousel {
         margin: 30px 5%;
+        width: 100%;
+    }
+
+    .carousel-inner > .carousel-item > img {
+        height: 80%;
+        width: 100%;
+        margin: auto;
     }
 }
 
