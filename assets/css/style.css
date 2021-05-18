@@ -507,13 +507,15 @@ fieldset {
 
 /* Media Queris */
 
-/* Contact info and form */
+/* Contact info */
 
 @media screen and (max-width: 1200px) {
     
     #container-contact-info {
         margin-left: 5%;
     }
+
+    /* Form */
     
     .question-form {
         width: 50%;
@@ -569,7 +571,7 @@ fieldset {
         margin: 15px 0 130px 5%;
     }
 
-    /* Group training section */
+    /* Group training column */
 
     .group-training-column {
         clear: both;
@@ -596,13 +598,15 @@ fieldset {
         width: 100%;
     }
 
-    /* Contact info and form */
+    /* Contact info */
 
     #container-contact-info {
         width: 60%;
         clear: left;
         margin: 10% 20%;
     }
+
+    /* Form */
 
     .question-form {
         width: 70%;
@@ -622,6 +626,8 @@ fieldset {
 
 @media screen and (max-width: 712px) {
 
+    /* Form */
+
     .question-form {
         width: 80%;
         height: 500px;
@@ -640,6 +646,8 @@ fieldset {
 }
 
 @media screen and (max-width: 650px) {
+
+    /* Carousel */
 
     .carousel-text {
         display: none;
@@ -671,7 +679,7 @@ fieldset {
         border: 1px solid black;
     }
 
-    /* Contact info and form */
+    /* Contact info */
 
     #container-contact-info {
         width: 80%;
@@ -682,6 +690,8 @@ fieldset {
     #contact-info {
         margin: 5% 0 0 5%;
     }
+
+    /* Form */
     
     #question {
         height: 175px;
