@@ -252,12 +252,18 @@ footer {
 /* Schedule Booking */
 
 .booking-form-container {
-    width: 40%;
+    width: 100%;
     text-align: center;
     clear: both;
     font-size: 150%;
     color: white;
-    margin: 15% 30% 0;
+    margin: 15% auto 0;
+}
+
+.booking-form {
+    text-align: center;
+    font-size: 70%;
+    width: 100%;
 }
 
 /* Schedule */
