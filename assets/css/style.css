@@ -507,6 +507,8 @@ fieldset {
 
 /* Media Queris */
 
+/* Contact info and form */
+
 @media screen and (max-width: 1200px) {
     
     #container-contact-info {
@@ -521,7 +523,6 @@ fieldset {
     #question {
         width: 190%;
         height: 190px;
-        
     }
 }
 
@@ -595,21 +596,24 @@ fieldset {
         width: 100%;
     }
 
+    /* Contact info and form */
+
     #container-contact-info {
         width: 60%;
-        height: 375px;
-        background-color: black;
         clear: left;
         margin: 10% 20%;
     }
 
     .question-form {
         width: 70%;
-        height: 375px;
         margin: 10px 15%;
         clear: both;
-        
-        
+    }
+
+    #question {
+        float: left;
+        width: 180%;
+        height: 190px;
     }
 }
 
