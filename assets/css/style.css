@@ -597,7 +597,7 @@ fieldset {
     .video-column-right {
         width: 100%;
         clear: both;
-        padding: 0 5%;
+        padding-left: 5%;
     }
 
     /* Contact info */
