@@ -661,6 +661,12 @@ fieldset {
         margin: 15px 15%;
     }
 
+    /* Schedule Form */
+
+    #email-schedule, #workout, #day {
+        width: 100%;
+    }
+
     /* Online Videos */
 
     .row,
@@ -689,7 +695,7 @@ fieldset {
         margin: 5% 0 0 5%;
     }
 
-    /* Form */
+    /* Contact Form */
 
     #question {
         height: 175px;
