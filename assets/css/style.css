@@ -596,8 +596,6 @@ fieldset {
     .video-column-left,
     .video-column-right {
         width: 100%;
-        clear: both;
-        padding-left: 5%;
     }
 
     /* Contact info */
@@ -679,6 +677,7 @@ fieldset {
         width: 350px;
         height: 200px;
         border: 1px solid black;
+        margin-left: 5%;
     }
 
     /* Contact info */
