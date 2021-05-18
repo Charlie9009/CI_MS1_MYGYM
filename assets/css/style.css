@@ -620,6 +620,25 @@ fieldset {
     }
 }
 
+@media screen and (max-width: 712px) {
+
+    .question-form {
+        width: 80%;
+        height: 500px;
+        margin-top: 10px;
+        clear: both;
+    }
+
+    .form-text {
+        clear: both;
+    }
+    
+    #question {
+        width: 160%;
+        height: 210px;
+    }
+}
+
 @media screen and (max-width: 650px) {
 
     .carousel-text {
@@ -650,6 +669,12 @@ fieldset {
         width: 350px;
         height: 200px;
         border: 1px solid black;
+    }
+
+    /* Contact info and form */
+
+    #question {
+        height: 175px;
     }
 }
 
