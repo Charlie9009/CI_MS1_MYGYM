@@ -422,13 +422,8 @@ iframe {
 
 /* Contact */
 
-#membership {
-    border-bottom: 2px solid rgb(115, 184, 207);
-    width: 65%;
-}
-
 #container-contact-info {
-    width: 400px;
+    width: 30%;
     height: 375px;
     background-color: black;
     float: left;
@@ -437,9 +432,13 @@ iframe {
 }
 
 #contact-info {
-
     margin: 15% 0 0 10%;
     color: white;
+}
+
+#membership {
+    border-bottom: 2px solid rgb(115, 184, 207);
+    width: 65%;
 }
 
 /* Question Form */
@@ -449,7 +448,7 @@ fieldset {
 }
 
 .question-form {
-    width: 600px;
+    width: 45%;
     height: 375px;
     background-color: black;
     border: 1px solid black;
@@ -462,6 +461,11 @@ fieldset {
     float: left;
     padding-left: 10px;
     color: white;
+}
+
+#question {
+    width: 200%;
+    height: 200px;
 }
 
 #submit-reset-button {
@@ -501,6 +505,13 @@ fieldset {
 }
 
 /* Media Queris */
+
+@media screen and (max-width: 1200px) {
+    #question {
+        width: 150%;
+        height: 200px;
+    }
+}
 
 @media screen and (max-width: 970px) {
 
