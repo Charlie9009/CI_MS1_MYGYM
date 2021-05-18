@@ -249,10 +249,21 @@ footer {
     text-transform: uppercase;
 }
 
+/* Schedule Booking */
+
+.booking-form-container {
+    width: 40%;
+    text-align: center;
+    clear: both;
+    font-size: 150%;
+    color: white;
+    margin: 15% 30% 0;
+}
+
 /* Schedule */
 
 .container {
-    margin: 5% 5% 130px 5%;
+    margin: 0 5% 130px 5%;
     clear: both;
     width: 100%;
 }
