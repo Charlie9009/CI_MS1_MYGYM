@@ -674,21 +674,18 @@ fieldset {
     /* Contact info and form */
 
     #container-contact-info {
-        width: 70%;
+        width: 80%;
         clear: both;
-        
-        
-        margin: 10% 5% 0 5%%;
-        
+        margin: 10% 5% 0 5%;
     }
     
     #contact-info {
-        margin: 15% 0 0 10%;
-        color: white;
+        margin: 5% 0 0 5%;
     }
     
     #question {
         height: 175px;
+        width: 140%;
     }
 }
 
