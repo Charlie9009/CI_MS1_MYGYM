@@ -673,11 +673,18 @@ fieldset {
 
     /* Online Videos */
 
+    .row,
+    .video-column-left,
+    .video-column-right {
+        width: 100%;
+        margin-left: 5%;
+    }
+
     iframe {
         width: 350px;
         height: 200px;
         border: 1px solid black;
-        margin-left: 5%;
+        
     }
 
     /* Contact info */
