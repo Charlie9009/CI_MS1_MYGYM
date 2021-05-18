@@ -261,8 +261,9 @@ body {
     margin-top: 20px;
 }
 
-.bg-light-gray {
-    background-color: #f7f7f7;
+.bg-black {
+    background-color: black;
+    color: white;
 }
 
 .table-bordered thead td,
