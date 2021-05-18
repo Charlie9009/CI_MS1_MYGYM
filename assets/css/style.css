@@ -610,10 +610,13 @@ fieldset {
         clear: both;
     }
 
+    .name-email-form {
+        width: 50%;
+    }
+
     #question {
-        float: left;
-        width: 180%;
-        height: 190px;
+        width: 200%;
+        height: 200px;
     }
 }
 
