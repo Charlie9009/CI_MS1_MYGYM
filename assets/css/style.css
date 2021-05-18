@@ -673,6 +673,20 @@ fieldset {
 
     /* Contact info and form */
 
+    #container-contact-info {
+        width: 70%;
+        clear: both;
+        
+        
+        margin: 10% 5% 0 5%%;
+        
+    }
+    
+    #contact-info {
+        margin: 15% 0 0 10%;
+        color: white;
+    }
+    
     #question {
         height: 175px;
     }
