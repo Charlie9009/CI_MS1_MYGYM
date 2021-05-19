@@ -170,6 +170,10 @@ nav {
     margin: auto;
 }
 
+.carousel-text {
+    color: rgb(2, 232, 248);
+}
+
 /* Group training section */
 
 .group-training-column {
