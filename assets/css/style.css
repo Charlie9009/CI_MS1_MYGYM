@@ -49,6 +49,13 @@ nav,
     border-bottom: 3px solid white;
 }
 
+/* Nav and Schedule */
+
+.bg-black {
+    background-color: black;
+    color: white;
+}
+
 /* Navigation Links */
 
 nav {
@@ -271,18 +278,13 @@ footer {
 /* Schedule */
 
 .container {
-    margin: 0 5% 130px 5%;
+    margin: 0 auto 130px auto;
     clear: both;
     width: 100%;
 }
 
 body {
     margin-top: 20px;
-}
-
-.bg-black {
-    background-color: black;
-    color: white;
 }
 
 .table-bordered thead td,
