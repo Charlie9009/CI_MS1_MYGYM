@@ -501,6 +501,10 @@ fieldset {
 
 @media screen and (max-width: 1200px) {
 
+    .my-nav {
+        font-size: 98%;
+    }
+    
     #container-contact-info {
         margin-left: 5%;
     }
@@ -518,7 +522,7 @@ fieldset {
     }
 }
 
-@media screen and (max-width: 970px) {
+@media screen and (max-width: 991px) {
 
     /* Login Button */
 
