@@ -528,10 +528,6 @@ fieldset {
 
     /* Nav Bar */
 
-    .bg-black {
-        width: 70%;
-    }
-
     #outer-logo {
         height: 210px;
         width: 50%;
@@ -544,7 +540,7 @@ fieldset {
     nav {
         margin-top: 0;
         float: right;
-        width: 100%;
+        width: 60%;
         height: 210px;
         border: 1px solid white;
     }
