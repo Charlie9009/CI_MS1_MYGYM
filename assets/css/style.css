@@ -7,7 +7,6 @@ body {
     font-weight: 500;
     color: black;
     background-color: rgb(108, 203, 235);
-    color: white;
 }
 
 span {
@@ -232,7 +231,7 @@ nav {
 }
 
 #online-training-column-text a {
-    color: black;
+    color: #2B2B2B;
 }
 
 #online-training-column-image {
