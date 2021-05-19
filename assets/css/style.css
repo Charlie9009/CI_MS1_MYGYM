@@ -170,12 +170,21 @@ nav {
     margin: auto;
 }
 
+/* Carousel text */
+
 .carousel-text {
     color: black;
 }
 
 #athlean-carousel {
     color: rgb(2, 232, 248);
+}
+
+/* Carousel login button */
+
+#carousel-login-button {
+    background-color: white;
+    color: black;
 }
 
 /* Group training section */
