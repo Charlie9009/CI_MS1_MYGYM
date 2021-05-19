@@ -657,8 +657,8 @@ fieldset {
     }
 
     #question {
-        width: 160%;
-        height: 210px;
+        width: 200%;
+        height: 260px;
     }
 }
 
@@ -720,7 +720,6 @@ fieldset {
 
     #question {
         height: 175px;
-        width: 140%;
     }
 }
 
