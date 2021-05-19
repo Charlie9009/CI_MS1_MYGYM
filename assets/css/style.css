@@ -475,7 +475,7 @@ iframe {
 }
 
 #contact-info {
-    margin: 15% 0 0 10%;
+    margin: 15% 0 0 8%;
     color: white;
 }
 
@@ -715,6 +715,10 @@ fieldset {
 
 @media screen and (max-width: 650px) {
 
+    h4 {
+        font-size: 125%;
+    }
+
     /* Carousel */
 
     .carousel-text {
@@ -759,7 +763,7 @@ fieldset {
     /* Contact info */
 
     #contact-info {
-        margin: 5% 0 0 5%;
+        margin: 5% 0 0 0;
     }
 
     /* Question Form */
