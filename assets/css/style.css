@@ -9,6 +9,12 @@ body {
     background-color: rgb(108, 203, 235);
 }
 
+h1 {
+    text-align: center;
+    clear: both;
+    padding-top: 30px;
+}
+
 span {
     font-weight: bold;
 }
@@ -465,7 +471,7 @@ iframe {
     background-color: black;
     float: left;
     clear: left;
-    margin: 10% 0 0 10%;
+    margin: 5% 0 0 10%;
     text-align: left;
     border: 1px solid white;
 }
@@ -492,7 +498,7 @@ fieldset {
     background-color: black;
     border: 1px solid white;
     float: right;
-    margin: 10% 10% 0 0;
+    margin: 5% 10% 0 0;
     position: relative;
 }
 
