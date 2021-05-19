@@ -451,13 +451,14 @@ fieldset {
 }
 
 .form-text {
+    width: 50%;
     float: left;
     padding-left: 10px;
     color: white;
 }
 
 #question {
-    width: 200%;
+    width: 150%;
     height: 200px;
 }
 
