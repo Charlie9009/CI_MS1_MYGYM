@@ -13,6 +13,10 @@ span {
     font-weight: bold;
 }
 
+a {
+    color: brown;
+}
+
 /* Logo, Nav, loginbutton */
 
 #outer-logo,
