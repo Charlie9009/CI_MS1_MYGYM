@@ -180,6 +180,10 @@ nav {
     color: black;
 }
 
+.carousel-text a {
+    color: rgb(129, 6, 6);
+}
+
 #athlean-carousel {
     color: rgb(2, 232, 248);
 }
