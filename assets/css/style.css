@@ -58,20 +58,16 @@ nav {
     height: 150px;
 }
 
-.bg-black {
+#nav-color .my-nav {
     background-color: black;
-}
-
-.my-nav {
-    background-color: black !important;
-    color: white !important;
-    text-align: center !important;
+    color: white;
+    text-align: center;
     font-size: 100%;
 }
 
 .navbar-toggler {
-    background-color: white !important;
-    color: black !important;
+    background-color: white;
+    color: black;
 }
 
 .my-nav a:hover {
