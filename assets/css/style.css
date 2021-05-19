@@ -59,7 +59,7 @@ nav,
 /* Navigation Links */
 
 nav {
-    margin: 20px 0 0 0;
+    margin: 20px auto 0 auto;
     float: left;
     width: 40%;
     height: 150px;
@@ -394,13 +394,13 @@ body {
 .video-column-left {
     width: 50%;
     text-align: center;
-    margin-top: 20px;
+    margin: 20px auto 0 auto;
 }
 
 .video-column-right {
     width: 50%;
     text-align: center;
-    margin-top: 20px;
+    margin: 20px auto 0 auto;
 }
 
 iframe {
@@ -608,6 +608,7 @@ fieldset {
     .video-column-left,
     .video-column-right {
         width: 100%;
+        margin: 0 auto;
     }
 
     /* Contact info */
@@ -697,13 +698,6 @@ fieldset {
     }
 
     /* Online Videos */
-
-    .row,
-    .video-column-left,
-    .video-column-right {
-        width: 100%;
-        margin-left: 5%;
-    }
 
     iframe {
         width: 350px;
