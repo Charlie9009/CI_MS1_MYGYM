@@ -15,10 +15,12 @@ span {
 
 /* Logo, Nav, loginbutton */
 
-h1,
+#outer-logo,
 nav,
+#outer-login-button,
 #login-button {
     text-transform: uppercase;
+    border: 1px solid white;
 }
 
 /* Logo */
@@ -428,6 +430,7 @@ iframe {
     clear: left;
     margin: 10% 0 0 10%;
     text-align: left;
+    border: 1px solid white;
 }
 
 #contact-info {
@@ -450,7 +453,7 @@ fieldset {
     width: 45%;
     height: 375px;
     background-color: black;
-    border: 1px solid black;
+    border: 1px solid white;
     float: right;
     margin: 10% 10% 0 0;
     position: relative;
@@ -513,7 +516,7 @@ fieldset {
     .my-nav {
         font-size: 98%;
     }
-    
+
     #container-contact-info {
         margin-left: 5%;
     }
@@ -649,7 +652,7 @@ fieldset {
         width: 80%;
         margin: 10px 10%;
     }
-    
+
     /* Form */
 
     .question-form {
@@ -697,7 +700,9 @@ fieldset {
 
     /* Schedule Form */
 
-    #email-schedule, #workout, #day {
+    #email-schedule,
+    #workout,
+    #day {
         width: 100%;
     }
 
