@@ -9,12 +9,6 @@ body {
     background-color: rgb(108, 203, 235);
 }
 
-h1 {
-    text-align: center;
-    clear: both;
-    padding-top: 30px;
-}
-
 span {
     font-weight: bold;
 }
@@ -124,6 +118,15 @@ nav {
 
 #login-button:hover {
     border: 1px solid white;
+}
+
+/* h1 heading */
+
+.top-heading {
+    text-align: center;
+    clear: both;
+    background-color: black;
+    color: white;
 }
 
 /* Log In Modal */
@@ -310,8 +313,9 @@ footer {
     text-align: center;
     clear: both;
     font-size: 150%;
-    color: white;
-    margin: 15% auto 0;
+    color: black;
+    background-color: black;
+    margin: 0 auto 0;
 }
 
 .booking-form {
