@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
 
+/* Body */
+
 body {
     font-family: quicksand, sans-serif;
     font-weight: 500;
@@ -41,6 +43,10 @@ nav,
     display: table-cell;
     margin-top: 50px;
     font-size: 200%;
+}
+
+#logo a:hover {
+    border-bottom: 3px solid white;
 }
 
 /* Navigation Links */
