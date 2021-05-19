@@ -153,6 +153,7 @@ nav {
     max-width: 100%;
     max-height: 100%;
     clear: both;
+    border: 1px solid white;
 }
 
 .carousel-inner {
@@ -183,6 +184,7 @@ nav {
     float: right;
     width: 65%;
     margin-right: 5%;
+    border: 1px solid white;
 }
 
 #group-training-column-image img {
@@ -206,6 +208,7 @@ nav {
 #online-training-column-image {
     width: 40%;
     margin: 2% 0 130px 5%;
+    border: 1px solid white;
 }
 
 #online-training-column-image img {
@@ -223,6 +226,7 @@ footer {
     width: 100%;
     background-color: black;
     color: white;
+    border-top: 1px solid white;
 }
 
 .column {
