@@ -299,7 +299,7 @@ p > span {
 
 .column i {
     font-size: 150%;
-    margin: 0 2px;
+    margin: 0 5px;
 }
 
 .column a:hover {
@@ -687,6 +687,25 @@ fieldset {
 }
 
 @media screen and (max-width: 712px) {
+
+    /* Footer */
+
+    footer {
+        height: 15%;
+        font-size: 80%;
+    }
+
+    .column {
+        width: 50%;
+    }
+
+    #athlean-footer {
+        display: none;
+    }
+
+    #adress-footer {
+        display: none;
+    }
 
     /* Contact info */
 
