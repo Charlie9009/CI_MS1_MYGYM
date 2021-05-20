@@ -806,6 +806,10 @@ fieldset {
         font-size: 70%;
     }
 
+    #remove-below {
+        display: none;
+    }
+
 }
 
 
