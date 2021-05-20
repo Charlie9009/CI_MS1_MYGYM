@@ -748,7 +748,7 @@ fieldset {
 
     /* Carousel */
 
-    .carousel-text {
+    .carousel-text, .athlean-carousel {
         display: none;
     }
 
