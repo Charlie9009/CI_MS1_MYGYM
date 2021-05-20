@@ -585,6 +585,18 @@ fieldset {
 
 @media screen and (max-width: 991px) {
 
+    .float-logo-left {
+        clear: both;
+        width: 250%;
+        height: 210px;
+    }
+
+    #outer-logo {
+        margin: -20px 0;
+        width: 40%;
+        border: 1px solid white;
+    }
+    
     /* Login Button */
 
     .float-right {
@@ -593,14 +605,7 @@ fieldset {
 
     /* Nav Bar */
 
-    #outer-logo {
-        height: 210px;
-        width: 50%;
-        margin: 0 0 0 0;
-        width: 40%;
-        height: 210px;
-        border: 1px solid white;
-    }
+    
 
     nav {
         margin-top: 0;
