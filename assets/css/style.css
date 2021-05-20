@@ -697,7 +697,7 @@ fieldset {
 
     footer {
         height: 15%;
-        font-size: 80%;
+        font-size: 110%;
     }
 
     .column {
@@ -798,7 +798,18 @@ fieldset {
     }
 }
 
-/* Modal Query */
+@media screen and (max-width: 400px) {
+
+    /* Footer */
+
+    footer {
+        font-size: 70%;
+    }
+
+}
+
+
+/* Modal Media Query */
 
 @media (min-width: 576px) {
     .modal-dialog {
