@@ -294,7 +294,7 @@ p > span {
 .column a {
     list-style: none;
     text-decoration: none;
-    color: rgb(108, 203, 235);
+    color: rgb(146, 170, 214);
 }
 
 .column i {
@@ -486,7 +486,7 @@ iframe {
 }
 
 #membership {
-    border-bottom: 2px solid rgb(115, 184, 207);
+    border-bottom: 2px solid rgb(146, 170, 214);
     width: 65%;
 }
 
