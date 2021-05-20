@@ -327,6 +327,11 @@ p > span {
 
 /* Schedule */
 
+.bg-white {
+    background-color: white;
+    color: black;
+}
+
 .container {
     margin: 0 auto 130px auto;
     clear: both;
