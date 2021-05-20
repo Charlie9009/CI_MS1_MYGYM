@@ -302,6 +302,11 @@ p > span {
     margin: 0 2px;
 }
 
+.column a:hover {
+    color: white;
+    border-bottom: 1px solid white;
+}
+
 /* Schedule Booking */
 
 .booking-form-container {
