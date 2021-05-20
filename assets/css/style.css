@@ -283,7 +283,13 @@ footer {
     font-size: 100%;
 }
 
+li > a > span {
+    text-transform: uppercase;
+}
 
+p > span {
+    text-transform: uppercase;
+}
 
 .column a {
     list-style: none;
@@ -294,10 +300,6 @@ footer {
 .column i {
     font-size: 150%;
     margin: 0 2px;
-}
-
-.uppercase-footer {
-    text-transform: uppercase;
 }
 
 /* Schedule Booking */
