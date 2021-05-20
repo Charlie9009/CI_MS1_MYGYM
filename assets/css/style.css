@@ -808,7 +808,7 @@ fieldset {
 
     /* Footer */
 
-    #remove-below {
+    .remove-below {
         display: none;
     }
 
