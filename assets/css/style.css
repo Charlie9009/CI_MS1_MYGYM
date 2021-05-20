@@ -810,6 +810,12 @@ fieldset {
         display: none;
     }
 
+    /* Question Form */
+
+    .question-form {
+        height: 550px;
+    }
+
 }
 
 
