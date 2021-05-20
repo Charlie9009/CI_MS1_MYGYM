@@ -273,6 +273,7 @@ footer {
 
 .column {
     float: left;
+    width: 25%;
 }
 
 .column li {
@@ -282,24 +283,17 @@ footer {
     font-size: 100%;
 }
 
+
+
 .column a {
     list-style: none;
     text-decoration: none;
-    color: inherit;
+    color: rgb(129, 6, 6);
 }
 
 .column i {
     font-size: 150%;
     margin: 0 2px;
-}
-
-#left-footer {
-    width: 50%;
-}
-
-#right-footer,
-#middle-footer {
-    width: 25%;
 }
 
 .uppercase-footer {
