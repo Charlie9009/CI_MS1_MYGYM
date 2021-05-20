@@ -585,6 +585,8 @@ fieldset {
 
 @media screen and (max-width: 991px) {
 
+    /* Logo */
+    
     .float-logo-left {
         clear: both;
         width: 250%;
@@ -605,12 +607,10 @@ fieldset {
 
     /* Nav Bar */
 
-    
-
     nav {
         margin-top: 0;
         float: right;
-        width: 60%;
+        width: 100%;
         height: 210px;
         border: 1px solid white;
     }
@@ -811,6 +811,7 @@ fieldset {
 
     footer {
         font-size: 70%;
+        height: 17%;
     }
 
     #remove-below {
