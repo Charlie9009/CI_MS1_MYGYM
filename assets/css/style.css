@@ -556,13 +556,15 @@ fieldset {
 
 /* Media Queris */
 
-/* Contact info */
-
 @media screen and (max-width: 1200px) {
+
+    /* Nav bar */
 
     .my-nav {
         font-size: 98%;
     }
+
+    /* Contact info */
 
     #container-contact-info {
         margin-left: 5%;
