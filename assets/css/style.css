@@ -35,19 +35,17 @@ nav,
 }
 
 #outer-logo {
-    background-color: black;
+    background-color: rgb(146, 170, 214);
     height: 150px;
-    width: 50%;
-    margin: 20px 0 0 5%;
+    width: 100%;
     display: table;
 }
 
 #logo {
-    color: white;
+    color: black;
     text-align: center;
     vertical-align: middle;
     display: table-cell;
-    margin-top: 50px;
     font-size: 200%;
 }
 
@@ -58,21 +56,21 @@ nav,
 /* Nav and Schedule */
 
 .bg-black {
-    background-color: black;
+    background-color: rgb(146, 170, 214);
     color: white;
 }
 
 /* Navigation Links */
 
 nav {
-    margin: 20px auto 0 auto;
+    margin: auto auto;
     float: left;
     width: 40%;
     height: 150px;
 }
 
 #nav-color .my-nav {
-    background-color: black;
+    background-color: rgb(146, 170, 214);
     color: white;
     text-align: center;
     font-size: 100%;
@@ -91,17 +89,15 @@ nav {
 
 .float-right {
     list-style: none;
-    margin: 20px 5% 0 0;
-    padding: 0;
     text-align: center;
     position: relative;
     float: left;
-    width: 15%;
+    width: 30%;
 }
 
 #outer-login-button {
     height: 150px;
-    background-color: black;
+    background-color: rgb(146, 170, 214);
     text-align: center;
 }
 
