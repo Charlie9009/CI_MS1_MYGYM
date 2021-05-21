@@ -820,6 +820,12 @@ fieldset {
         display: none;
     }
 
+    /* Videos */
+
+    iframe {
+        width: 100%;
+    }
+
     /* Question Form */
 
     .question-form {
