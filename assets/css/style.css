@@ -437,7 +437,7 @@ body {
 
 .row {
     float: left;
-    margin-bottom: 130px;
+    margin-bottom: 12%;
 }
 
 .video-column-left {
@@ -560,10 +560,22 @@ fieldset {
         font-size: 98%;
     }
 
+    /* Online training */
+
+    #online-training-column-image {
+        margin-bottom: 18%;
+    }
+
     /* Footer */
 
     footer {
         font-size: 80%;
+    }
+
+    /* Videos */
+
+    .row {
+        margin-bottom: 19%;
     }
 
     /* Contact info */
