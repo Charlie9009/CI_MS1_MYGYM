@@ -344,10 +344,6 @@ p > span {
 
 /* Premade copyed css */
 
-body {
-    margin-top: 20px;
-}
-
 .table-bordered thead td,
 .table-bordered thead th {
     border-bottom-width: 2px;
@@ -387,10 +383,6 @@ body {
 
 .font-size14 {
     font-size: 14px;
-}
-
-.text-light-gray {
-    color: white;
 }
 
 .font-size13 {
@@ -616,7 +608,6 @@ fieldset {
     }
 
     #outer-logo {
-        margin: -20px 0;
         border: 1px solid white;
     }
     
@@ -629,7 +620,6 @@ fieldset {
     /* Nav Bar */
 
     nav {
-        margin-top: 0;
         width: 100%;
         height: 210px;
         border: 1px solid white;
