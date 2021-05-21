@@ -2,222 +2,171 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Online training, PT videos and Gym">
-    <meta name="keywords" content="online training, pt videos, gym, online workout">
-    <!-- Bootstrap CSS -->
-    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.2/css/bootstrap.min.css'>
-    <!-- Font Awesome CSS -->
-    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.3.1/css/all.css'>
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="assets/css/style.css">
-    <title>My Gym</title>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Online training, PT videos and Gym">
+	<meta name="keywords" content="online training, pt videos, gym, online workout">
+	<!-- Bootstrap CSS -->
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.2/css/bootstrap.min.css'>
+	<!-- Font Awesome CSS -->
+	<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.3.1/css/all.css'>
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="assets/css/style.css">
+	<title>My Gym</title>
 </head>
 
 <body>
-    <header>
-        <!-- My Gym Logo-->
-        <div class="float-logo-left">
-            <div id="outer-logo">
-                <a id="logo" href="index.html" aria-label="Go to our Home page">My Gym</a>
-            </div>
-        </div>
-        <!-- Nav bar -->
-        <nav id="nav-color" class="my-nav navbar navbar-expand-lg navbar-light bg-blue">
-            <a class="my-nav navbar-brand" href="#">Menu</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item active">
-                        <a class="my-nav nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="my-nav nav-link" href="schedule.html" aria-label="Go to our Schedule">Schedule</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="my-nav nav-link" href="workoutonline.html"
-                            aria-label="Go to our Video page">Videos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="my-nav nav-link" href="contact.html" aria-label="Go to our Contact page">Contact</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-        <!-- Login Button -->
-        <div class="float-right">
-            <div id="outer-login-button">
-                <button type="button" id="login-button" class="btn btn-info btn-round" data-toggle="modal"
-                    data-target="#loginModal">
-                    Login
-                </button>
-            </div>
-        </div>
-        <!-- Modal HTML -->
-        <div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModal"
-            aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content">
-                    <div class="modal-header border-bottom-0">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">×</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <div class="form-title text-center">
-                            <h4>Login</h4>
-                        </div>
-                        <div class="d-flex flex-column text-center">
-                            <form>
-                                <div class="form-group">
-                                    <label class="hide" for="email1">Email</label>
-                                    <input type="email" class="form-control" id="email1"
-                                        placeholder="Your email address...">
-                                </div>
-                                <div class="form-group">
-                                    <label class="hide" for="password1">Password</label>
-                                    <input type="password" class="form-control" id="password1"
-                                        placeholder="Your password...">
-                                </div>
-                                <button type="button" class="btn btn-info btn-block btn-round">Login</button>
-                            </form>
-                            <div class="text-center text-muted delimiter">or use a social network</div>
-                            <div class="d-flex justify-content-center social-buttons">
-                                <button type="button" class="btn btn-secondary btn-round" data-toggle="tooltip"
-                                    data-placement="top" title="Twitter">
-                                    <i class="fab fa-twitter"></i>
-                                </button>
-                                <button type="button" class="btn btn-secondary btn-round" data-toggle="tooltip"
-                                    data-placement="top" title="Facebook">
-                                    <i class="fab fa-facebook"></i>
-                                </button>
-                                <button type="button" class="btn btn-secondary btn-round" data-toggle="tooltip"
-                                    data-placement="top" title="Linkedin">
-                                    <i class="fab fa-linkedin"></i>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="modal-footer d-flex justify-content-center">
-                        <div class="signup-section">Not a member yet? <a href="#a" class="text-info"> Sign
-                                Up</a>.
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- H1 heading -->
-    <section>
-        <div class="top-heading">
-        <h1>Contact</h1>
-        </div>
-        <!-- Contact info -->
-        <div id="container-contact-info">
-            <div id="contact-info">
-                <h2 id="membership">Membership: <span>25$ Monthly</span></h2>
-                <br>
-                <h3>Customer Service:</h3>
-                <h4>Phone: <span>+000 555 555</span></h4>
-                <h4>Email: <span>customer@mygym.com</span></h4>
-            </div>
-        </div>
-        <!-- Question form -->
-        <form action="customer@mygym.com" method="post" class="question-form">
-            <fieldset>
-                <legend>Questions? Fill out the form and we will get back to you.</legend>
-                <div class="form-text name-email-form">
-                    <label for="name">Name</label>
-                    <input type="text" id="name" name="name" placeholder="Your name" required>
-                </div>
-                <div class="form-text name-email-form">
-                    <label for="email">Email</label>
-                    <input type="email" id="email" name="email" placeholder="Your email" required>
-                </div>
-                <br>
-                <div class="form-text">
-                    <label for="question">Question</label>
-                    <br>
-                    <textarea name="question" id="question"></textarea>
-                </div>
-                <div id="submit-reset-button">
-                    <input class="color-button" type="submit" value="Submit">
-                    <input class="color-button" type="reset" value="Reset">
-                </div>
-            </fieldset>
-        </form>
-    </section>
-    <br>
-    <!-- Map for address -->
-    <section>
-        <div id="map">
-            <h3 id="location">Location: <span>Brunnsparken, 411 06 Göteborg</span></h3>
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8526.265713083802!2d11.969949968786624!3d57.70683568282672!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31f73c4daffe5577!2sBrunnsparken!5e0!3m2!1ssv!2sse!4v1621005523516!5m2!1ssv!2sse"></iframe>
-        </div>
-    </section>
-    <!-- Footer, 4 columns -->
-    <footer>
-        <!-- Contact info, Left column -->
-        <div>
-            <div class="column">
-                <ul>
-                    <li>
-                        <a href="contact.html" aria-label="Go to our Contact page"><span>Contact:</span></a>
-                        <p class="remove-below">Email: customer@mygym.com Customer service: +000 555 555 
-                        </p>
-                    </li>
-                </ul>
-            </div>
-            <!-- Social media, Second to left column -->
-            <div class="column">
-                <ul>
-                    <li>
-                        <p class="remove-below"><span>Social Media:</span></p>
-                        <a href="https://facebook.com" target="_blank" rel="noopener"
-                            aria-label="Visit our Facebook page (opens in a new tab)"><i
-                                class="fab fa-facebook"></i></a>
-                        <a href="https://youtube.com" target="_blank" rel="noopener"
-                            aria-label="Visit our Youtube page (opens in a new tab)"><i
-                                class="fab fa-youtube-square"></i></a>
-                        <a href="https://instagram.com" target="_blank" rel="noopener"
-                            aria-label="Visit our Instagram page (opens in a new tab)"><i
-                                class="fab fa-instagram"></i></a>
-                    </li>
-                </ul>
-            </div>
-            <!-- Athlean X, second to right column -->
-            <div id="athlean-footer" class="column">
-                <ul>
-                    <li>
-                        <p><span>Athlean X:</span><br> More online videos? Go to <a href="https://athleanx.com/" target="_blank" rel="noopener"
-                                aria-label="Visit Athlean X (opens in a new tab">Athlean
-                                X</a>
-                        </p>
-                    </li>
-                </ul>
-            </div>
-            <!-- Address, right column -->
-            <div id="address-footer" class="column">
-                <ul>
-                    <li>
-                        <p><span>Address:</span><br> Brunnsparken, 411 06 Göteborg</p>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </footer>
-    <!-- jQuery -->
-    <script src='https://code.jquery.com/jquery-3.3.1.slim.min.js'></script>
-    <!-- Popper JS -->
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js'></script>
-    <!-- Bootstrap JS -->
-    <script src='https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js'></script>
+	<header>
+		<!-- My Gym Logo-->
+		<div class="float-logo-left">
+			<div id="outer-logo"> <a id="logo" href="index.html" aria-label="Go to our Home page">My Gym</a> </div>
+		</div>
+		<!-- Nav bar -->
+		<nav id="nav-color" class="my-nav navbar navbar-expand-lg navbar-light bg-blue"> <a class="my-nav navbar-brand" href="#">Menu</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+			<div class="collapse navbar-collapse" id="navbarNav">
+				<ul class="navbar-nav">
+					<li class="nav-item active"> <a class="my-nav nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> </li>
+					<li class="nav-item"> <a class="my-nav nav-link" href="schedule.html" aria-label="Go to our Schedule">Schedule</a> </li>
+					<li class="nav-item"> <a class="my-nav nav-link" href="workoutonline.html" aria-label="Go to our Video page">Videos</a> </li>
+					<li class="nav-item"> <a class="my-nav nav-link" href="contact.html" aria-label="Go to our Contact page">Contact</a> </li>
+				</ul>
+			</div>
+		</nav>
+		<!-- Login Button -->
+		<div class="float-right">
+			<div id="outer-login-button">
+				<button type="button" id="login-button" class="btn btn-info btn-round" data-toggle="modal" data-target="#loginModal"> Login </button>
+			</div>
+		</div>
+		<!-- Modal HTML -->
+		<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModal" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-centered" role="document">
+				<div class="modal-content">
+					<div class="modal-header border-bottom-0">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">×</span> </button>
+					</div>
+					<div class="modal-body">
+						<div class="form-title text-center">
+							<h4>Login</h4> </div>
+						<div class="d-flex flex-column text-center">
+							<form>
+								<div class="form-group">
+									<label class="hide" for="email1">Email</label>
+									<input type="email" class="form-control" id="email1" placeholder="Your email address..."> </div>
+								<div class="form-group">
+									<label class="hide" for="password1">Password</label>
+									<input type="password" class="form-control" id="password1" placeholder="Your password..."> </div>
+								<button type="button" class="btn btn-info btn-block btn-round">Login</button>
+							</form>
+							<div class="text-center text-muted delimiter">or use a social network</div>
+							<div class="d-flex justify-content-center social-buttons">
+								<button type="button" class="btn btn-secondary btn-round" data-toggle="tooltip" data-placement="top" title="Twitter"> <i class="fab fa-twitter"></i> </button>
+								<button type="button" class="btn btn-secondary btn-round" data-toggle="tooltip" data-placement="top" title="Facebook"> <i class="fab fa-facebook"></i> </button>
+								<button type="button" class="btn btn-secondary btn-round" data-toggle="tooltip" data-placement="top" title="Linkedin"> <i class="fab fa-linkedin"></i> </button>
+							</div>
+						</div>
+					</div>
+					<div class="modal-footer d-flex justify-content-center">
+						<div class="signup-section">Not a member yet? <a href="#a" class="text-info"> Sign
+                                Up</a>. </div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	<!-- H1 heading -->
+	<section>
+		<div class="top-heading">
+			<h1>Contact</h1> </div>
+		<!-- Contact info -->
+		<div id="container-contact-info">
+			<div id="contact-info">
+				<h2 id="membership">Membership: <span>25$ Monthly</span></h2>
+				<br>
+				<h3>Customer Service:</h3>
+				<h4>Phone: <span>+000 555 555</span></h4>
+				<h4>Email: <span>customer@mygym.com</span></h4> </div>
+		</div>
+		<!-- Question form -->
+		<form action="customer@mygym.com" method="post" class="question-form">
+			<fieldset>
+				<legend>Questions? Fill out the form and we will get back to you.</legend>
+				<div class="form-text name-email-form">
+					<label for="name">Name</label>
+					<input type="text" id="name" name="name" placeholder="Your name" required> </div>
+				<div class="form-text name-email-form">
+					<label for="email">Email</label>
+					<input type="email" id="email" name="email" placeholder="Your email" required> </div>
+				<br>
+				<div class="form-text">
+					<label for="question">Question</label>
+					<br>
+					<textarea name="question" id="question"></textarea>
+				</div>
+				<div id="submit-reset-button">
+					<input class="color-button" type="submit" value="Submit">
+					<input class="color-button" type="reset" value="Reset"> </div>
+			</fieldset>
+		</form>
+	</section>
+	<br>
+	<!-- Map for address -->
+	<section>
+		<div id="map">
+			<h3 id="location">Location: <span>Brunnsparken, 411 06 Göteborg</span></h3>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8526.265713083802!2d11.969949968786624!3d57.70683568282672!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31f73c4daffe5577!2sBrunnsparken!5e0!3m2!1ssv!2sse!4v1621005523516!5m2!1ssv!2sse"></iframe>
+		</div>
+	</section>
+	<!-- Footer, 4 columns -->
+	<footer>
+		<!-- Contact info, Left column -->
+		<div>
+			<div class="column">
+				<ul>
+					<li> <a href="contact.html" aria-label="Go to our Contact page"><span>Contact:</span></a>
+						<p class="remove-below">Email: customer@mygym.com Customer service: +000 555 555 </p>
+					</li>
+				</ul>
+			</div>
+			<!-- Social media, Second to left column -->
+			<div class="column">
+				<ul>
+					<li>
+						<p class="remove-below"><span>Social Media:</span></p> <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)"><i
+                                class="fab fa-facebook"></i></a> <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="Visit our Youtube page (opens in a new tab)"><i
+                                class="fab fa-youtube-square"></i></a> <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)"><i
+                                class="fab fa-instagram"></i></a> </li>
+				</ul>
+			</div>
+			<!-- Athlean X, second to right column -->
+			<div id="athlean-footer" class="column">
+				<ul>
+					<li>
+						<p><span>Athlean X:</span>
+							<br> More online videos? Go to <a href="https://athleanx.com/" target="_blank" rel="noopener" aria-label="Visit Athlean X (opens in a new tab">Athlean
+                                X</a> </p>
+					</li>
+				</ul>
+			</div>
+			<!-- Address, right column -->
+			<div id="address-footer" class="column">
+				<ul>
+					<li>
+						<p><span>Address:</span>
+							<br> Brunnsparken, 411 06 Göteborg</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</footer>
+	<!-- jQuery -->
+	<script src='https://code.jquery.com/jquery-3.3.1.slim.min.js'></script>
+	<!-- Popper JS -->
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js'></script>
+	<!-- Bootstrap JS -->
+	<script src='https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js'></script>
 </body>
 
 </html>
