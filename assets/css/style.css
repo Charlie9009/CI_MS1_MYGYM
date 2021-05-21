@@ -58,7 +58,7 @@
      background-color: rgb(146, 170, 214);
      color: black;
      text-align: center;
-     font-size: 100%;
+     font-size: 125%;
 }
  .navbar-toggler {
      background-color: white;
@@ -479,6 +479,9 @@
          height: 210px;
          border: 1px solid white;
     }
+    #nav-color .my-nav {
+        font-size: 100%;
+   }
     /* Carousel */
      .carousel-text {
          font-size: 100%;
