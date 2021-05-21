@@ -210,7 +210,7 @@ nav {
     float: left;
     text-align: center;
     width: 20%;
-    margin: 3% 0 0 5%;
+    margin: 5% 0 0 5%;
     font-size: 75%;
 }
 
@@ -235,7 +235,7 @@ nav {
 #online-training-column-text {
     text-align: center;
     width: 50%;
-    margin: 15% 5% 130px 0;
+    margin: 15% 5% 12% 0;
     font-size: 80%;
 }
 
@@ -245,7 +245,7 @@ nav {
 
 #online-training-column-image {
     width: 40%;
-    margin: 2% 0 130px 5%;
+    margin: 2% 0 12% 5%;
     border: 1px solid white;
 }
 
@@ -260,7 +260,7 @@ footer {
     position: fixed;
     left: 0px;
     bottom: 0px;
-    height: 15%;
+    height: 13%;
     width: 100%;
     background-color: black;
     color: white;
@@ -560,6 +560,8 @@ fieldset {
         font-size: 98%;
     }
 
+    /* Footer */
+
     footer {
         font-size: 80%;
     }
@@ -632,7 +634,7 @@ fieldset {
 
     #online-training-column-text {
         width: 40%;
-        margin: 15% 0 80px 0;
+        margin: 15% 0 130px 0;
         text-align: center;
     }
 
