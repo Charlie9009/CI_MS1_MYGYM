@@ -33,10 +33,10 @@
 }
  #logo {
      color: black;
-     text-align: center;
      vertical-align: middle;
      display: table-cell;
      font-size: 400%;
+     text-align: center;
 }
  #logo a:hover {
      border-bottom: 3px solid white;
@@ -48,11 +48,11 @@
 }
 /* Navigation Links */
  nav {
-     margin: auto auto;
      float: left;
      width: 40%;
      height: 150px;
      font-weight: bold;
+     margin: auto auto;
 }
  #nav-color .my-nav {
      background-color: rgb(146, 170, 214);
@@ -69,11 +69,11 @@
 }
 /* Log In button */
  .float-right {
-     list-style: none;
-     text-align: center;
      position: relative;
      float: left;
      width: 30%;
+     list-style: none;
+     text-align: center;
 }
  #outer-login-button {
      height: 150px;
@@ -81,23 +81,23 @@
      text-align: center;
 }
  #login-button {
-     font-size: 130%;
      display: inline-block;
      margin-top: 50px;
-     text-decoration: none;
      color: white;
      background-color: black;
-     border-color: black;
+     border-color: rgb(146, 170, 214);
+     font-size: 130%;
+     text-decoration: none;
 }
  #login-button:hover {
      border: 1px solid white;
 }
 /* h1 heading */
  .top-heading {
-     text-align: center;
      clear: both;
      background-color: black;
      color: white;
+     text-align: center;
 }
 /* Log In Modal */
  .hide {
@@ -136,9 +136,9 @@
      margin: auto;
 }
  .carousel-inner>.carousel-item>img {
+     margin: auto;
      height: 80%;
      width: 100%;
-     margin: auto;
 }
 /* Carousel text */
  .carousel-text {
@@ -161,15 +161,15 @@
 }
  #group-training-column-text {
      float: left;
-     text-align: center;
-     width: 20%;
      margin: 5% 0 0 5%;
+     width: 20%;
      font-size: 75%;
+     text-align: center;
 }
  #group-training-column-image {
      float: right;
-     width: 65%;
      margin-right: 5%;
+     width: 65%;
      border: 1px solid white;
 }
  #group-training-column-image img {
@@ -181,17 +181,17 @@
      float: left;
 }
  #online-training-column-text {
-     text-align: center;
-     width: 50%;
      margin: 15% 5% 12% 0;
+     width: 50%;
      font-size: 80%;
+     text-align: center;
 }
  #online-training-column-text a {
      color: rgb(129, 6, 6);
 }
  #online-training-column-image {
-     width: 40%;
      margin: 2% 0 12% 5%;
+     width: 40%;
      border: 1px solid white;
 }
  #online-training-column-image img {
@@ -214,10 +214,10 @@
      width: 25%;
 }
  .column li {
-     list-style: none;
-     text-decoration: none;
      color: inherit;
      font-size: 100%;
+     list-style: none;
+     text-decoration: none;
 }
  li > a > span {
      text-transform: uppercase;
@@ -226,13 +226,13 @@
      text-transform: uppercase;
 }
  .column a {
+     color: rgb(146, 170, 214);
      list-style: none;
      text-decoration: none;
-     color: rgb(146, 170, 214);
 }
  .column i {
-     font-size: 150%;
      margin: 0 5px;
+     font-size: 150%;
 }
  .column a:hover {
      color: white;
@@ -240,27 +240,26 @@
 }
 /* Schedule Booking */
  .booking-form-container {
-     width: 100%;
-     text-align: center;
      clear: both;
-     font-size: 150%;
-     color: black;
-     background-color: black;
      margin: 0 auto 0;
+     width: 100%;
+     background-color: black;
+     text-align: center;
+     font-size: 150%;
 }
  .booking-form {
+     width: 100%;
      text-align: center;
      font-size: 70%;
-     width: 100%;
 }
 /* Schedule */
- .bg-white {
-     background-color: white;
+ #bg-schedule-days {
+     background-color: rgb(146, 170, 214);
      color: black;
 }
  .container {
-     margin: 0 auto 130px auto;
      clear: both;
+     margin: 0 auto 130px auto;
      width: 100%;
 }
  .text-black {
@@ -339,14 +338,14 @@
      margin-bottom: 12%;
 }
  .video-column-left {
+     margin: 20px auto 0 auto;
      width: 50%;
      text-align: center;
-     margin: 20px auto 0 auto;
 }
  .video-column-right {
+     margin: 20px auto 0 auto;
      width: 50%;
      text-align: center;
-     margin: 20px auto 0 auto;
 }
  iframe {
      width: 500px;
@@ -359,12 +358,12 @@
 }
 /* Contact */
  #container-contact-info {
-     width: 30%;
-     height: 375px;
-     background-color: black;
      float: left;
      clear: left;
      margin: 2% 0 0 10%;
+     width: 30%;
+     height: 375px;
+     background-color: black;
      text-align: left;
      border: 1px solid white;
 }
@@ -373,26 +372,26 @@
      color: white;
 }
  #membership {
-     border-bottom: 2px solid rgb(146, 170, 214);
      width: 65%;
+     border-bottom: 2px solid rgb(146, 170, 214);
 }
 /* Question Form */
  fieldset {
      color: white;
 }
  .question-form {
+     float: right;
+     margin: 2% 10% 0 0;
+     position: relative;
      width: 45%;
      height: 375px;
      background-color: black;
      border: 1px solid white;
-     float: right;
-     margin: 2% 10% 0 0;
-     position: relative;
 }
  .form-text {
-     width: 50%;
      float: left;
      padding-left: 10px;
+     width: 50%;
      color: white;
 }
  #question {
@@ -401,10 +400,10 @@
 }
  #submit-reset-button {
      float: right;
-     text-align: right;
      position: absolute;
      bottom: 5px;
      right: 5px;
+     text-align: right;
 }
  .color-button {
      background-color: black;
@@ -452,8 +451,8 @@
     }
     /* Form */
      .question-form {
-         width: 50%;
          margin-right: 5%;
+         width: 50%;
     }
      #question {
          width: 190%;
@@ -494,10 +493,10 @@
     }
      #group-training-column-text {
          clear: both;
-         text-align: center;
-         width: 70%;
          margin: 3% 15% 0 15%;
+         width: 70%;
          font-size: 80%;
+         text-align: center;
     }
      #group-training-column-image {
          margin: 0 5% 0 5%;
@@ -508,31 +507,31 @@
          float: left;
     }
      #online-training-column-text {
-         width: 40%;
          margin: 15% 0 130px 0;
+         width: 40%;
          text-align: center;
     }
      #online-training-column-image {
+         margin: 15px 0 18% 5%;
          width: 50%;
          height: 80%;
-         margin: 15px 0 18% 5%;
     }
     /* Online Videos */
      .row, .video-column-left, .video-column-right {
-         width: 100%;
          margin: 0 auto 10% auto;
+         width: 100%;
     }
     /* Contact info */
      #container-contact-info {
-         width: 70%;
          clear: both;
          margin: 10% 15%;
+         width: 70%;
     }
     /* Form */
      .question-form {
-         width: 70%;
-         margin: 10px 15%;
          clear: both;
+         margin: 10px 15%;
+         width: 70%;
     }
      .name-email-form {
          width: 50%;
@@ -555,15 +554,15 @@
     }
     /* Contact info */
      #container-contact-info {
-         width: 80%;
          margin: 10px 10%;
+         width: 80%;
     }
     /* Form */
      .question-form {
+         clear: both;
+         margin: 10px 10%;
          width: 80%;
          height: 500px;
-         margin: 10px 10%;
-         clear: both;
     }
      .form-text {
          clear: both;
@@ -586,14 +585,14 @@
          clear: both;
     }
      #online-training-column-text {
-         width: 70%;
          margin: 0 15% 130px 15%;
+         width: 70%;
          text-align: center;
     }
      #online-training-column-image {
+         margin: 15px 15%;
          width: 70%;
          height: 80%;
-         margin: 15px 15%;
     }
     /* Schedule Form */
      #email-schedule, #workout, #day {
