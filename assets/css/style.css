@@ -642,25 +642,7 @@ fieldset {
         width: 100%;
     }
 
-    /* Online training column */
-
-    .online-training-column {
-        float: left;
-    }
-
-    #online-training-column-text {
-        width: 40%;
-        margin: 15% 0 130px 0;
-        text-align: center;
-    }
-
-    #online-training-column-image {
-        width: 50%;
-        height: 80%;
-        margin: 15px 0 130px 5%;
-    }
-
-    /* Group training column */
+    /* Group training */
 
     .group-training-column {
         clear: both;
@@ -677,6 +659,24 @@ fieldset {
     #group-training-column-image {
         margin: 0 5% 0 5%;
         width: 90%;
+    }
+
+    /* Online training */
+
+    .online-training-column {
+        float: left;
+    }
+
+    #online-training-column-text {
+        width: 40%;
+        margin: 15% 0 130px 0;
+        text-align: center;
+    }
+
+    #online-training-column-image {
+        width: 50%;
+        height: 80%;
+        margin: 15px 0 18% 5%;
     }
 
     /* Online Videos */
