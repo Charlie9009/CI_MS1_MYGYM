@@ -338,6 +338,10 @@ p > span {
     width: 100%;
 }
 
+.text-black {
+    color: black;
+}
+
 /* Premade copyed css */
 
 body {
