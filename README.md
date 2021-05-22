@@ -22,7 +22,10 @@ The site is targeted towards everyone that wants to increase their health and/or
     * On the images there are headers with information depending on what the user might be after. There is a login button on every      image which is fully responsive. On one image, info for the schedule to book a workout and a link to that page, on the second image info to get in touch with a personal trainer and a link and on the third image info about Athlean X and a link to that page. When on a small screen the headers dissaper to keep the site clean.
     * There is also a header above the carousel to welcome the user.
 
+* **Group Training section**
 
+    * The group training section will give examples of what kind of group trainings are offered and tell the user our personal trainers are well educated.
+    * This section has an image to encourage the user to work out together with a group.
 
 
 
