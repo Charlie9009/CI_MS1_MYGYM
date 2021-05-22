@@ -2,6 +2,8 @@
 # MyGym
 
 ## Welcome to my page [MyGym](https://charlie9009.github.io/CI_MS1_MYGYM/)!
+<br>
+MyGym is a site that wants to increase peoples well being and motivate others by offering personal trainers and online videos. The site is targeted towards everyone that wants to increase their health and/or wants help to get started with their training.
 
 
 Customer goals
