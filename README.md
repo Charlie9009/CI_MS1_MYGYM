@@ -3,7 +3,9 @@
 
 ## Welcome to my page [MyGym](https://charlie9009.github.io/CI_MS1_MYGYM/)!
 <br>
-MyGym is a site that wants to increase peoples well being and motivate others by offering personal trainers and online videos. The site is targeted towards everyone that wants to increase their health and/or wants help to get started with their training.
+MyGym is a site that wants to increase peoples well being and motivate others by offering personal trainers and online videos. Due to Covid, MyGym wants to help people who now struggle with working out. Either by not working out at all, or alone in the wrong way not getting the help needed. By using MyGym they will be able to work out from home in a safe and effective way. <br>
+The site is targeted towards everyone that wants to increase their health and/or wants help to get started with their training. The site is also for people who wants to explore new ways of working out by not being able to go to the gym. MyGym offers a wide variation of group training which can be booked from the site. What makes MyGym special is that we dont allow more than 10 people per personal trainer. This makes it possible for the trainer to tailor the best workout for every customer.
+
 
 
 Customer goals
