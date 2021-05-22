@@ -1,10 +1,7 @@
 
-#MyGym
+# MyGym
 
-
-
-
-https://charlie9009.github.io/CI_MS1_MYGYM/
+## Welcome to my page [MyGym](https://charlie9009.github.io/CI_MS1_MYGYM/)!
 
 
 Customer goals
