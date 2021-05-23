@@ -151,6 +151,16 @@ I want the customer to feel it's worth signing up for the service.
     * No errors were found on the contact.html when passing through Wave Validator, [contact.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_contact_validator.JPG)
 
 
+## Deployment
+
+* The site was deployed to github pages.
+
+    1. In your repository find the settings button and click it.
+    2. Scroll down to GitHub Pages, beneath it says "Pages settings now has its own dedicated tab! Check it out here!" Click on "Check it out here".
+    3. Find source and from the drop-down menu select master from branch, click save, let it update.
+        * Here is a live link to the page https://charlie9009.github.io/CI_MS1_MYGYM/
+
+
 
 code credit
 
