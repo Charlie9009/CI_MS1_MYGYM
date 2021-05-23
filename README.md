@@ -88,10 +88,6 @@ The site is targeted towards everyone that wants to increase their health and/or
     * A section with information about every single group workout offered at the gym and a layout of how every session could look like.
 
 
-
-
-
-
 Customer goals
 
 I want to increase my well being.
@@ -124,6 +120,21 @@ I want the customer to be able to easily book sessions.
 I want the customer to tell their friends and family how much they enjoy my website.
 
 I want the customer to feel it's worth signing up for the service.
+
+
+## Testing 
+
+## Validator testing
+
+* **HTML**
+
+    * No errors were found on index.html when passing through WC3 Validator, [index.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_index_validator.JPG)
+
+    * No errors were found on index.html when passing through WC3 Validator
+
+    * No errors were found on index.html when passing through WC3 Validator
+
+    * No errors were found on index.html when passing through WC3 Validator
 
 
 
