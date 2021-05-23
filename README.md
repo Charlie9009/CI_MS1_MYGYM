@@ -32,14 +32,12 @@ The site is targeted towards everyone that wants to increase their health and/or
 * **Group Training section**
 
     * The group training section will give examples of what kind of group trainings are offered and tell the user our personal trainers are well educated.
-    <img src="assets/images/">
     * This section has an image to encourage the user to work out together with a group.
-    <img src="assets/images/">
+    <img src="assets/images/f_group_training.jpg">
 
 * **Online Training section**
 
     * The online training section will encourage the user to check out Athlean X and go to MyGyms video page if they want to workout online, to keep it user friendly links are provided to both pages in the text.
-    <img src="assets/images/">
     * This section also has an image from Athlean X to give the user a face to Athlean X.
     <img src="assets/images/">
 
