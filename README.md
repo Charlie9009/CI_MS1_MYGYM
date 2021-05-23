@@ -47,6 +47,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 
     * Beneath the nav bar there is a heading to welcome the user to the page and to reasure them they are on the schedule page.
     * There is a form where the user can book their next training session.
+    
 
 * **Schedule section**
 
