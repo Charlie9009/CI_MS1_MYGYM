@@ -58,7 +58,9 @@ The site is targeted towards everyone that wants to increase their health and/or
     * Beneath the header to the left there is a container with contact information and a price tag for membership in MyGym.
     * To the right of contact information there is a container with a question form if a user would have any questions.
 
+* **Location**
 
+    * At the bottom of the page there is a map of the Gyms location and above it text containing the address. 
 
 
 
