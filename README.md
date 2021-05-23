@@ -61,7 +61,17 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 * **Location**
 
-    * At the bottom of the page there is a map of the Gyms location and above it text containing the address. 
+    * At the bottom of the page there is a map of the Gyms location and above it text containing the address.
+
+### Features left to implement
+
+* **Personal trainers**
+
+    * A section with information about all of the personal trainers.
+
+* **Group training**
+
+    * A section with information about every single group workout offered at the gym and a layout of how every session could look like.
 
 
 
