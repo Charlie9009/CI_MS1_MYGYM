@@ -12,6 +12,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 * **Navigation bar, Footer section**
 
     * The navigation bar and the footer are featured on all four pages and they are responsive. The navigation bar shows links to the logo, Home, Schedule, Videos, Contact and a Login button. When on smaller screen sizes the login button will dissapear to allow for a clean and user friendly site. The login button is a pop up modal, so when you click it there will pop up a window in the middle of the screen.
+    <img src="assets/images/f_nav_bar.jpg">
     * The footer shows Contact info, Social media icons, Athlean X link and MyGyms location. When on smaller screen sizes the footer will only show a link to the contact page and social media icons to make the footer easily navigated.
 
 ### Home
