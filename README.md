@@ -32,7 +32,12 @@ The site is targeted towards everyone that wants to increase their health and/or
     * The online training section will encourage the user to check out Athlean X and go to MyGyms video page if they want to workout online, to keep it user friendly links are provided to both pages in the text.
     * This section also has an image from Athlean X to give the user a face to Athlean X.
 
+### Schedule
 
+* **Booking section**
+
+    * Beneath the nav bar there is a heading to welcome the user to the page and to reasure them they are on the schedule page.
+    * There is a form where the user can book their next training session.
 
 
 
