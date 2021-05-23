@@ -130,11 +130,11 @@ I want the customer to feel it's worth signing up for the service.
 
     * No errors were found on index.html when passing through WC3 Validator, [index.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_index_validator.JPG)
 
-    * No errors were found on index.html when passing through WC3 Validator
+    * No errors were found on index.html when passing through WC3 Validator, [schedule.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_schedule_validator.JPG)
 
-    * No errors were found on index.html when passing through WC3 Validator
+    * No errors were found on index.html when passing through WC3 Validator,
 
-    * No errors were found on index.html when passing through WC3 Validator
+    * No errors were found on index.html when passing through WC3 Validator,
 
 
 
