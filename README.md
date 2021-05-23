@@ -39,6 +39,10 @@ The site is targeted towards everyone that wants to increase their health and/or
     * Beneath the nav bar there is a heading to welcome the user to the page and to reasure them they are on the schedule page.
     * There is a form where the user can book their next training session.
 
+* **Schedule section**
+
+    * Beneath the form there is a big schedule where you can see the weeks training sessions, there is information about what workout, which day and time, as well as the personal trainer leading the session.
+
 
 
 
