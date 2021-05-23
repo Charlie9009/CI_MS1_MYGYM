@@ -39,7 +39,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 
     * The online training section will encourage the user to check out Athlean X and go to MyGyms video page if they want to workout online, to keep it user friendly links are provided to both pages in the text.
     * This section also has an image from Athlean X to give the user a face to Athlean X.
-    <img src="assets/images/">
+    <img src="assets/images/f_online_training.jpg">
 
 ### Schedule
 
