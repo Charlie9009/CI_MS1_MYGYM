@@ -138,7 +138,17 @@ I want the customer to feel it's worth signing up for the service.
 
 * **CSS**
 
-    * No errors were found on the CSS file when passing through Jigsaw W3 Validator, [css](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/css_validator.JPG)
+    * No errors were found on the CSS file when passing through Jigsaw W3 Validator, [CSS](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/css_validator.JPG)
+
+* **Wave**
+
+    * No errors were found on the index.html when passing through Wave Validator, [index.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_index_validator.JPG)
+
+    * No errors were found on the schedule.html when passing through Wave Validator, [schedule.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_schedule_validator.JPG)
+
+    * No errors were found on the videos.html when passing through Wave Validator, [videos.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_videos_validator.JPG)
+
+    * No errors were found on the contact.html when passing through Wave Validator, [contact.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_contact_validator.JPG)
 
 
 
