@@ -130,11 +130,15 @@ I want the customer to feel it's worth signing up for the service.
 
     * No errors were found on index.html when passing through WC3 Validator, [index.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_index_validator.JPG)
 
-    * No errors were found on index.html when passing through WC3 Validator, [schedule.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_schedule_validator.JPG)
+    * No errors were found on schedule.html when passing through WC3 Validator, [schedule.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_schedule_validator.JPG)
 
-    * No errors were found on index.html when passing through WC3 Validator,
+    * No errors were found on videos.html when passing through WC3 Validator, [videos.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_videos_validator.JPG)
 
-    * No errors were found on index.html when passing through WC3 Validator,
+    * No errors were found on contact.html when passing through WC3 Validator, [contact.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_contact_validator.JPG)
+
+* **CSS**
+
+    * No errors were found on the CSS file when passing through Jigsaw W3 Validator, [css](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/css_validator.JPG)
 
 
 
