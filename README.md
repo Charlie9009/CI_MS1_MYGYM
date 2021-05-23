@@ -4,7 +4,7 @@
 ## Welcome to my page [MyGym](https://charlie9009.github.io/CI_MS1_MYGYM/)!
 <br>
 MyGym is a site that wants to increase peoples well being and motivate others by offering personal trainers and online videos. Due to Covid, MyGym wants to help people who now struggle with working out. Either by not working out at all, or alone in the wrong way not getting the help needed. By using MyGym they will be able to work out from home in a safe and effective way. <br>
-The site is targeted towards everyone that wants to increase their health and/or wants help to get started with their training. The site is also for people who wants to explore new ways of working out by not being able to go to the gym. MyGym offers a wide variation of group training which can be booked from the site. What makes MyGym special is that we dont allow more than 10 people per personal trainer. This makes it possible for the trainer to tailor the best workout for every customer. <br>
+The site is targeted towards everyone that wants to increase their health and/or wants help to get started with their training. The site is also for people who wants to explore new ways of working out by not being able to go to the gym. MyGym offers a wide variation of group training which can be booked from the site. What makes MyGym special is that we dont allow more than 10 people per personal trainer. This makes it possible for the trainer to tailor the best workout for every customer.<br>
 
 ## Features
 <hr>
@@ -13,8 +13,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 
     * The navigation bar and the footer are featured on all four pages and they are responsive. The navigation bar shows links to the logo, Home, Schedule, Videos, Contact and a Login button. When on smaller screen sizes the login button will dissapear to allow for a clean and user friendly site. The login button is a pop up modal, so when you click it there will pop up a window in the middle of the screen.
     <img src="assets/images/f_nav_bar.jpg">
-    <img src="assets/images/f_login_modal.jpg">
-    <br>
+    <img src="assets/images/f_login_modal.jpg"><br>
     * The footer shows Contact info, Social media icons, Athlean X link and MyGyms location. When on smaller screen sizes the footer will only show a link to the contact page and social media icons to make the footer easily navigated.
     <img src="assets/images/f_footer.jpg">
 
