@@ -13,9 +13,9 @@ The site is targeted towards everyone that wants to increase their health and/or
 
     * The navigation bar and the footer are featured on all four pages and they are responsive. The navigation bar shows links to the logo, Home, Schedule, Videos, Contact and a Login button. When on smaller screen sizes the login button will dissapear to allow for a clean and user friendly site. The login button is a pop up modal, so when you click it there will pop up a window in the middle of the screen.
     * The footer shows Contact info, Social media icons, Athlean X link and MyGyms location. When on smaller screen sizes the footer will only show a link to the contact page and social media icons to make the footer easily navigated.
-    <img src="assets/images/f_nav_bar.jpg">
-    <img src="assets/images/f_login_modal.jpg">
-    <img src="assets/images/f_footer.jpg">
+    <img src="docs/features/f_nav_bar.jpg">
+    <img src="docs/features/f_login_modal.jpg">
+    <img src="docs/features/f_footer.jpg">
 
 ### Home
 
@@ -24,22 +24,22 @@ The site is targeted towards everyone that wants to increase their health and/or
     * When you load the page the first thing the user will see is the big carousel with 3 images scrolling.
     * On the images there are headers with information depending on what the user might be after. There is a login button on every      image which is fully responsive. On one image, info for the schedule to book a workout and a link to that page, on the second image info to get in touch with a personal trainer and a link and on the third image info about Athlean X and a link to that page. When on a small screen the headers dissaper to keep the site clean.
     * There is also a header above the carousel to welcome the user.
-    <img src="assets/images/f_top_heading_index.jpg">
-    <img src="assets/images/f_carousel_1image.jpg">
-    <img src="assets/images/f_carousel_2image.jpg">
-    <img src="assets/images/f_carousel_3image.jpg">
+    <img src="docs/features/f_top_heading_index.jpg">
+    <img src="docs/features/f_carousel_1image.jpg">
+    <img src="docs/features/f_carousel_2image.jpg">
+    <img src="docs/features/f_carousel_3image.jpg">
 
 * **Group Training section**
 
     * The group training section will give examples of what kind of group trainings are offered and tell the user our personal trainers are well educated.
     * This section has an image to encourage the user to work out together with a group.
-    <img src="assets/images/f_group_training.jpg">
+    <img src="docs/features/f_group_training.jpg">
 
 * **Online Training section**
 
     * The online training section will encourage the user to check out Athlean X and go to MyGyms video page if they want to workout online, to keep it user friendly links are provided to both pages in the text.
     * This section also has an image from Athlean X to give the user a face to Athlean X.
-    <img src="assets/images/f_online_training.jpg">
+    <img src="docs/features/f_online_training.jpg">
 
 ### Schedule
 
@@ -51,7 +51,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 * **Schedule section**
 
     * Beneath the form there is a big schedule where you can see the weeks training sessions, there is information about what workout, which day and time, as well as the personal trainer leading the session.
-    <img src="assets/images/f_schedule.jpg">
+    <img src="docs/features/f_schedule.jpg">
 
 ### Videos
 
@@ -59,7 +59,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 
     * At the top of the page there is a heading encouraging the user for todays workout.
     * Beneath the heading there are a variate of workout videos with different muscelgroups depending on what the user want to work on today.
-    <img src="assets/images/f_videos.jpg">
+    <img src="docs/features/f_videos.jpg">
 
 ### Contact
 
@@ -69,12 +69,12 @@ The site is targeted towards everyone that wants to increase their health and/or
     * Beneath the header to the left there is a container with contact information and a price tag for membership in MyGym.
     * To the right of contact information there is a container with a question form if a user would have any questions.
         * When on smaller devices these two container stacks on top of eachother.
-    <img src="assets/images/f_contact.jpg">
+    <img src="docs/features/f_contact.jpg">
 
 * **Location**
 
     * At the bottom of the page there is a map of the Gyms location and above it text containing the address.
-    <img src="assets/images/f_location.jpg">
+    <img src="docs/features/f_location.jpg">
 
 ### Features left to implement
 
