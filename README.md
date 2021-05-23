@@ -43,6 +43,16 @@ The site is targeted towards everyone that wants to increase their health and/or
 
     * Beneath the form there is a big schedule where you can see the weeks training sessions, there is information about what workout, which day and time, as well as the personal trainer leading the session.
 
+### Videos
+
+* **Video section**
+
+    * At the top of the page there is a heading encouraging the user for todays workout.
+    * Beneath the heading there are a variate of workout videos with different muscelgroups depending on what the user want to work on today.
+
+
+
+
 
 
 
