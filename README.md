@@ -77,6 +77,14 @@ The site is targeted towards everyone that wants to increase their health and/or
     * At the bottom of the page there is a map of the Gyms location and above it text containing the address.
     <img src="docs/features/f_location.jpg">
 
+## Design choices
+
+* Colors
+
+* Fonts
+
+## Structure
+
 ### Features left to implement
 
 * **Personal trainers**
