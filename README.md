@@ -193,12 +193,13 @@ I want the customer to feel it's worth signing up for the service.
 
 * Code from Social Media Column Footer, with Font Awesome icons was copyed and restyled from Code Institutes "Love Running" project. (https://charlie9009.github.io/love-running/)
 
-
 * Code for the Modal Login button and the pop up window was used from [codehim](https://www.codehim.com/bootstrap/bootstrap-4-modal-popup-login-form/). Styling was added to a degree for the login button only.
 
 * Code for the Carousel was used from [getbootstrap](https://getbootstrap.com/docs/4.0/components/carousel/). The Carousel used was the one with indicators and then added captions. It was restyled to a degree in CSS.
 
 * Code for the Schedule was used from [bootdey](https://www.bootdey.com/snippets/view/time-table#html). It was restyled in CSS.
+
+* All the code besides the code mentioned above was written by me.
 
 ## Media Credit
 
