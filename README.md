@@ -169,9 +169,23 @@ I want the customer to feel it's worth signing up for the service.
     3. Find source and from the drop-down menu select master from branch, click save, let it update.
         * Here is a live link to the page https://charlie9009.github.io/CI_MS1_MYGYM/
 
+## Responsive on all devices
+
+## Languages Used
+
+* HTML5
+
+* CSS3
+
+## Libraries and different programs used
+
+* To get the "Modal Log in pop up window" to work, Bootstrap 4.1.3, jQuery and Popper JS was used.
+
 
 
 code credit
+
+Code from Social Media Column Footer, with Font Awesome icons was copyed and restyled from Code Institutes "Love Running" project. (https://charlie9009.github.io/love-running/)
 
 modal
 https://www.codehim.com/bootstrap/bootstrap-4-modal-popup-login-form/
