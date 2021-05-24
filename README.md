@@ -167,7 +167,11 @@ I want the customer to feel it's worth signing up for the service.
 
 * Friends and family has been asked to review the site.
 
-##
+## Known bugs
+
+* Login in, and signing up does not work. This is something that will be developed later.
+
+* Submitting the Schedule Form or the Question Form does not work. This will also be developed later.
 
 ## Deployment
 
