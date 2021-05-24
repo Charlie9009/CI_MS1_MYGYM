@@ -191,15 +191,29 @@ I want the customer to feel it's worth signing up for the service.
 
 ## Code Credit
 
-### Code from Social Media Column Footer, with Font Awesome icons was copyed and restyled from Code Institutes "Love Running" project. (https://charlie9009.github.io/love-running/)
+* Code from Social Media Column Footer, with Font Awesome icons was copyed and restyled from Code Institutes "Love Running" project. (https://charlie9009.github.io/love-running/)
 
 
-### Code for the Modal Login button and the pop up window was used from [codehim](https://www.codehim.com/bootstrap/bootstrap-4-modal-popup-login-form/). Styling was added to a degree for the login button only.
+* Code for the Modal Login button and the pop up window was used from [codehim](https://www.codehim.com/bootstrap/bootstrap-4-modal-popup-login-form/). Styling was added to a degree for the login button only.
 
-### Code for the Carousel was used from [getbootstrap](https://getbootstrap.com/docs/4.0/components/carousel/). The Carousel used was the one with indicators and then added captions. It was restyled to a degree in CSS.
+* Code for the Carousel was used from [getbootstrap](https://getbootstrap.com/docs/4.0/components/carousel/). The Carousel used was the one with indicators and then added captions. It was restyled to a degree in CSS.
 
-### Code for the Schedule was used from [bootdey](https://www.bootdey.com/snippets/view/time-table#html). It was restyled in CSS.
+* Code for the Schedule was used from [bootdey](https://www.bootdey.com/snippets/view/time-table#html). It was restyled in CSS.
 
 ## Media Credit
 
-### Images were googled and added to the project
+### Images were googled and added to the project. Image sources were the following.
+
+* https://wyckoffymca.org/fitness/small-group-training/
+
+* https://www.polar.com/blog/what-is-group-fitness-benefits/
+
+* https://freemotionfitness.com/fusion-team-training/
+
+* https://athleanx.com/
+
+## Acknowledgement
+
+* My Mentor Mo has been invaluable, he was able to provide consistent and helpful feedback throughout my project.
+
+* A friend of mine in the business Will, has been able to provide me with help and tips.
