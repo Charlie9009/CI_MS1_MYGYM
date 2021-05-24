@@ -181,6 +181,14 @@ I want the customer to feel it's worth signing up for the service.
 
 * To get the "Modal Log in pop up window" to work, Bootstrap 4.1.3, jQuery and Popper JS was used.
 
+* Font Awesome icons where used for social media in the footer.
+
+* The Gitpod terminal was used to commit and push to Github.
+
+* Github is used to store the code.
+
+* Balsamiq was used to create the projects wireframes.
+
 ## Code Credit
 
 ### Code from Social Media Column Footer, with Font Awesome icons was copyed and restyled from Code Institutes "Love Running" project. (https://charlie9009.github.io/love-running/)
