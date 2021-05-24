@@ -199,3 +199,7 @@ I want the customer to feel it's worth signing up for the service.
 ### Code for the Carousel was used from [getbootstrap](https://getbootstrap.com/docs/4.0/components/carousel/). The Carousel used was the one with indicators and then added captions. It was restyled to a degree in CSS.
 
 ### Code for the Schedule was used from [bootdey](https://www.bootdey.com/snippets/view/time-table#html). It was restyled in CSS.
+
+## Media Credit
+
+### Images were googled and added to the project
