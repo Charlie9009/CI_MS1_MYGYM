@@ -133,7 +133,7 @@ I want the customer to feel it's worth signing up for the service.
 
 ## Testing 
 
-## Validator testing
+### Validator testing
 
 * **HTML**
 
@@ -159,6 +159,13 @@ I want the customer to feel it's worth signing up for the service.
 
     * No errors were found on the contact.html when passing through Wave Validator, [contact.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_contact_validator.JPG)
 
+## Further testing
+
+* The website has been inspected thru the device toolbar in chrome.
+
+* I have tested the website thru phones like One Plus 8T and Iphone XR.
+
+* Friends and family has been asked to review the site.
 
 ## Deployment
 
