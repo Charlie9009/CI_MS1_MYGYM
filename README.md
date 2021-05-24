@@ -91,7 +91,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 * **Below you can see the links to the respective wireframes**
 
-    * Full size Wireframe
+    * Full size Wireframe 
     * Desktop Wireframe
     * Tablet Wireframe
     * Mobile Wireframe
