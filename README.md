@@ -167,6 +167,8 @@ I want the customer to feel it's worth signing up for the service.
 
 * Friends and family has been asked to review the site.
 
+##
+
 ## Deployment
 
 * The site was deployed to github pages.
@@ -195,6 +197,8 @@ I want the customer to feel it's worth signing up for the service.
 * Github is used to store the code.
 
 * Balsamiq was used to create the projects wireframes.
+
+* WC3 Validator, Jigsaw W3 Validator, Wave Validator, Lighthouse and ami.responsivedesign were all used to test the website.
 
 ## Code Credit
 
