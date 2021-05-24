@@ -87,6 +87,15 @@ The site is targeted towards everyone that wants to increase their health and/or
 
     * A section with information about every single group workout offered at the gym and a layout of how every session could look like.
 
+## Wireframes
+
+* **Below you can see the links to the respective wireframes**
+
+    * Full size Wireframe
+    * Desktop Wireframe
+    * Tablet Wireframe
+    * Mobile Wireframe
+
 
 Customer goals
 
