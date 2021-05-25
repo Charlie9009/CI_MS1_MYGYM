@@ -99,7 +99,12 @@ The site is targeted towards everyone that wants to increase their health and/or
 
     * I early on picked the font **Quicksand** and I stuck with that font throughout the project because I liked it. For the backup I picked **Sans-serif**.
 
-## Structure
+## Design
+
+* Most of my design choices came pretty early on the developement, I tested quite bit in Balsamiq and got a core design with four pages. Two of my design choices in the beginning was a big hero image with a lot of information and a login page, so my Mentor suggested me to make a carousel for the hero image and a modal for the login which I thought sounded challenging but a very good idea.<br>
+Some of my choices came in the end of my project when I started experimenting because I didn't like some things and that led to me changing more.
+One of those things was the Logo, Nav bar and login button. I had a more split version for a long period where the elements were far away from eachother and didn't really go together. So I started experimenting and got a better result.<br>
+I struggled for a time with the contrast of the colors as well, but after some trial and error I managed to put my vision together
 
 ### Features left to implement
 
@@ -260,6 +265,6 @@ I want the customer to feel it's worth signing up for the service.
 
 ## Acknowledgement
 
-* My Mentor Mo has been invaluable, he was able to provide consistent and helpful feedback throughout my project.
+* My Mentor Mo has been invaluable, he pushed me to challenge myself and he was able to provide consistent and helpful feedback throughout my project.
 
 * A friend of mine in the business Will, has been able to provide me with help and tips.
