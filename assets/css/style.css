@@ -505,6 +505,10 @@
          margin: 0 5% 0 5%;
          width: 90%;
     }
+    /* Schedule Form */
+    #email-schedule, #workout, #day {
+        width: 100%;
+   }
     /* Online training */
      .online-training-column {
          float: left;
@@ -596,10 +600,6 @@
          margin: 15px 15%;
          width: 70%;
          height: 80%;
-    }
-    /* Schedule Form */
-     #email-schedule, #workout, #day {
-         width: 100%;
     }
     /* Online Videos */
      iframe {
