@@ -195,6 +195,14 @@ I want the customer to feel it's worth signing up for the service.
 
 * Submitting the Schedule Form or the Question Form does not work. This will also be developed later.
 
+## Squashed bugs
+
+* For a while I had problems with the bootstrap and Javascript overriding my own CSS rules. I fixed it by placing my CSS stylesheet beneath the other links to have more priority.
+
+* The code for the carousel had an extra incomplete div tag which I removed.
+
+* I used Iframes for the videos in this project and I had paragraphs within those Iframes "*Sorry, your browser does not support Iframes*". But text within the Iframes did not go thru the validator so I removed them.
+
 ## Deployment
 
 * The site was deployed to github pages.
