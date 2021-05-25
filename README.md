@@ -81,6 +81,20 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 * Colors
 
+    * I didn't want a white background so I tested a couple of colors and landed on a greyish blue. I chose that because it felt like it didn't take to much attention but still gave the background a little personality.
+
+    * I gave the logo and the nav bar a black color, they were big and visual already. Then I also gave the reading material a black color to make it easy to read.
+
+    * I gave the login button both in the top right corner and in the carousel a different styling to make it easy to spot. The top right corner has a black container and the text is white. The login button in the Carousel has a white container and black text.
+
+    * In the Carousel I gave the text for the different images different colors to contrast the colors in the images.
+
+    * The text I wanted to pop out a bit more I gave the color white.
+
+    * The Logo, Nav bar, login button, all the anchor elements and the submit and reset button for the forms I gave hover functions to help the user to navigate easier.
+
+    * The colors I gave for the different workouts in the Schedule was picked to make them pop out of the other content. A slightly darker tone was picked so it would be a contrast.
+
 * Fonts
 
 ## Structure
@@ -102,7 +116,6 @@ The site is targeted towards everyone that wants to increase their health and/or
     * Full size, Desktop [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_fullsize_desktop.pdf)
     * Tablet [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_tablet.pdf)
     * Mobile [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_mobile.pdf)
-
 
 Customer goals
 
