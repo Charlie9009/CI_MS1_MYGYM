@@ -22,6 +22,24 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 * As a site owner I want the customer to feel it's worth signing up for the service.
 
+## User goals
+
+* As a user I want to increase my well being.
+
+* As a user I want to feel inspired to workout when navigating the web page.
+
+* As a user I want to build muscles in a safe and effective way.
+
+* As a user I want to relate to the brand.
+
+* As a user I want to feel that I can trust the personal trainers from watching their videos.
+
+* As a user I want to see and feel results by using the service.
+
+* As a user I want to be able to easily find contact info and location of the gym.
+
+* As a user I want to be able to find the schedule and book sessions.
+
 ## Features
 
 * **Navigation bar, Footer section**
@@ -137,24 +155,6 @@ I struggled for a time with the contrast of the colors as well, but after some t
     * Full size, Desktop [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_fullsize_desktop.pdf)
     * Tablet [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_tablet.pdf)
     * Mobile [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_mobile.pdf)
-
-Customer goals
-
-I want to increase my well being.
-
-I want to feel inspired to workout when navigating the web page.
-
-I want to build muscles in a safe and effective way.
-
-I want to relate to the brand.
-
-I want to feel that I can trust the personal trainers from watching their videos.
-
-I want to see and feel results by using the service.
-
-I want to be able to easily find contact info and location of the gym.
-
-I want to be able to find the schedule and book sessions.
 
 ## Testing 
 
