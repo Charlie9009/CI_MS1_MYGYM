@@ -8,6 +8,20 @@ The site is targeted towards everyone that wants to increase their health and/or
 <img src="docs/mockups/mockup.jpg">
 <hr>
 
+## Site owner goals
+
+* As a site owner I want the customer to trust the brand.
+
+* As a site owner I want to offer the customer a good service.
+
+* As a site owner I want the customer to feel happy using my service.
+
+* As a site owner I want the customer to be able to easily book sessions.
+
+* As a site owner I want the customer to tell their friends and family how much they enjoy my website.
+
+* As a site owner I want the customer to feel it's worth signing up for the service.
+
 ## Features
 
 * **Navigation bar, Footer section**
@@ -141,22 +155,6 @@ I want to see and feel results by using the service.
 I want to be able to easily find contact info and location of the gym.
 
 I want to be able to find the schedule and book sessions.
-
-
-Website Developer
-
-I want the customer to trust the brand.
-
-I want to offer the customer a good service.
-
-I want the customer to feel happy using my service.
-
-I want the customer to be able to easily book sessions.
-
-I want the customer to tell their friends and family how much they enjoy my website.
-
-I want the customer to feel it's worth signing up for the service.
-
 
 ## Testing 
 
