@@ -101,7 +101,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 
     * Full size, Desktop [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_fullsize_desktop.pdf)
     * Tablet [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_tablet.pdf)
-    * Mobile [Wireframe]
+    * Mobile [Wireframe]()
 
 
 Customer goals
