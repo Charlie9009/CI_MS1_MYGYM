@@ -23,7 +23,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 * **Hero Section**
 
     * When you load the page the first thing the user will see is the big carousel with 3 images scrolling.
-    * On the images there are headers with information depending on what the user might be after. There is a login button on every      image which is fully responsive. On one image, info for the schedule to book a workout and a link to that page, on the second image info to get in touch with a personal trainer and a link and on the third image info about Athlean X and a link to that page. When on a small screen the headers dissaper to keep the site clean.
+    * On the images there are headers with information depending on what the user might be after. There is a login button on every image which is fully responsive. On one image, info for the schedule to book a workout and a link to that page, on the second image info to get in touch with a personal trainer and a link and on the third image info about Athlean X and a link to that page. When on a small screen the headers dissaper to keep the site clean.
     * There is also a header above the carousel to welcome the user.
     <img src="docs/features/f_top_heading_index.jpg">
     <img src="docs/features/f_carousel_1image.jpg">
@@ -96,6 +96,8 @@ The site is targeted towards everyone that wants to increase their health and/or
     * The colors I gave for the different workouts in the Schedule was picked to make them pop out of the other content. A slightly darker tone was picked so it would be a contrast.
 
 * Fonts
+
+    * I early on picked the font **Quicksand** and I stuck with that font throughout the project because I liked it. For the backup I picked **Sans-serif**.
 
 ## Structure
 
