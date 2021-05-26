@@ -191,6 +191,11 @@ As soon as you land on the site there is an easily readible and clean navigation
 When you land on the site you will see the big carousel with 3 images rotating. When you scroll down you will read the text of the first image which presents the cost for the membership. The cost is also present on the contact page. <br>
 <img src="docs/features/cost_carousel.jpg">
 
+* *As a user I need to be able to find the schedule for the group workouts, book sessions and see when they are.* <br>
+When I land on the page I will see the nav bar, I will see the text for schedule and click the link which will take me to the schedule site. Here I will scroll down and find the form for booking and the schedule with all the workouts. <br>
+<img src="docs/features/nav_small.jpg">
+<img src="docs/features/f_schedule.jpg">
+
 ### Validator testing
 
 * **HTML**
