@@ -241,7 +241,10 @@ When I land on the homepage the carousel starts to rotate and the third image is
 <img src="docs/features/f_footer.jpg">
 <hr> 
 
-* *As a user I want to have access to MyGyms social media.*
+* *As a user I want to have access to MyGyms social media.* <br>
+When I land on the homepage I have the footer visible on the bottom of the page with links to social media like Facebook, Instagram and Youtube. <br>
+<img src="docs/features/f_footer.jpg">
+<hr>
 
 ### Validator testing
 
