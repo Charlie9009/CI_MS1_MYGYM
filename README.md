@@ -230,6 +230,8 @@ If I want to find contact info I will have the nav bar at the top and the footer
 <img src="docs/features/f_location.jpg">
 <hr>
 
+
+
 ### Validator testing
 
 * **HTML**
