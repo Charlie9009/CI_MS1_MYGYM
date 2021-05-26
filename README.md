@@ -183,19 +183,19 @@ I struggled for a time with the contrast of the colors as well, but after some t
 ## Testing of user goals
 
 * *As a user I want to be able to manouver the site with ease.* <br>
-As soon as you land on the site there is an easily readible and clean navigation bar which is present throughout every page to have a consistency for the user. When on smaller devices a hamburger menu is used to keep it clean and consistent.
+As soon as you land on the homepage there is an easily readible and clean navigation bar which is present throughout every page to have a consistency for the user. When on smaller devices a hamburger menu is used to keep it clean and consistent.
 <img src="docs/features/f_nav_bar.jpg">
 <br>
 <img src="docs/features/resp_nav_bar.jpg">
 <hr>
 
 * *As a user I want to find out what the membership costs.* <br>
-When you land on the site you will see the big carousel with 3 images rotating. When you scroll down you will read the text of the first image which presents the cost for the membership. The cost is also present on the contact page. <br>
+When you land on the homepage you will see the big carousel with 3 images rotating. When you scroll down you will read the text of the first image which presents the cost for the membership. The cost is also present on the contact page. <br>
 <img src="docs/features/cost_carousel.jpg">
 <hr>
 
 * *As a user I need to be able to find the schedule for the group workouts, book sessions and see when they are.* <br>
-When I land on the page I will see the nav bar, I will see the text for schedule and click the link which will take me to the schedule site. Here I will scroll down and find the form for booking and the schedule with all the workouts. <br>
+When I land on the homepage I will see the nav bar, I will see the text for schedule and click the link which will take me to the schedule site. Here I will scroll down and find the form for booking and the schedule with all the workouts. <br>
 <img src="docs/features/nav_small.jpg">
 <br>
 <img src="docs/features/f_schedule.jpg">
@@ -203,14 +203,14 @@ When I land on the page I will see the nav bar, I will see the text for schedule
 
 * *As a user I want to have a Gym were I can workout and also find videos online.* 
 * *As a user I want to find a workout video fast when I am ready to workout.* <br>
-When I land on the page I will see the nav bar, I will see the text for videos and click the link which will take me to the videos site. <br>
+When I land on the homepage I will see the nav bar, I will see the text for videos and click the link which will take me to the videos site. <br>
 <img src="docs/features/nav_small.jpg">
 <br>
 <img src="docs/features/f_videos.jpg">
 <hr>
 
 * *As a user I want to find a personal trainer and a gym who can help me with my form.* <br>
-When I land on the page the carousel will start rotating and the text in the second image will tell me to go to *contact*(which is a clickable link) and call customer service if I want to talk to a personal trainer. <br>
+When I land on the homepage the carousel will start rotating and the text in the second image will tell me to go to *contact*(which is a clickable link) and call customer service if I want to talk to a personal trainer. <br>
 <img src="docs/features/personal_training_carousel.jpg">
 <br>
 <img src="docs/features/contact_info.jpg">
@@ -230,7 +230,16 @@ If I want to find contact info I will have the nav bar at the top and the footer
 <img src="docs/features/f_location.jpg">
 <hr>
 
-* *As a user I want to find out more about Athlean X.*
+* *As a user I want to find out more about Athlean X.* <br>
+When I land on the homepage the carousel starts to rotate and the third image is of the *Athlean X* site. The text provides me with a link to the site and tells me to join up. If I scroll down I get to a section where I can find another link to Athlean X. There is also a link in the footer if I would ever feel lost on the page. <br>
+<img src="docs/features/f_carousel_3image.jpg">
+<br>
+<br>
+<img src="docs/features/f_online_training.jpg">
+<br>
+<br>
+<img src="docs/features/f_footer.jpg">
+<hr> 
 
 * *As a user I want to have access to MyGyms social media.*
 
