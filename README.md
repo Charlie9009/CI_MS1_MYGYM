@@ -138,7 +138,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 * Most of my design choices came pretty early on the developement, I tested quite bit in Balsamiq and got a core design with four pages. Two of my design choices in the beginning was a big hero image with a lot of information and a login page, so my Mentor suggested me to make a carousel for the hero image and a modal for the login which I thought sounded challenging but a very good idea.<br>
 Some of my choices came in the end of my project when I started experimenting because I didn't like some things and that led to me changing more.
 One of those things was the Logo, Nav bar and login button. I had a more split version for a long period where the elements were far away from eachother and didn't really go together. So I started experimenting and got a better result.<br>
-I struggled for a time with the contrast of the colors as well, but after some trial and error I managed to put my vision together
+I struggled for a time with the contrast of the colors as well, but after some trial and error I managed to put my vision together.
 
 ### Features left to implement
 
@@ -209,7 +209,20 @@ When I land on the page I will see the nav bar, I will see the text for videos a
 <img src="docs/features/f_videos.jpg">
 <hr>
 
+* *As a user I want to find a personal trainer and a gym who can help me with my form.*
+* *As a user I want to be able to easily find contact info and location of the gym when navigating the site.* <br>
+When I land on the page the carousel will start rotating and the text in the second image will tell me to go to *contact* and call customer service if I want to talk to a personal trainer. <br>
+<img src="docs/features/">  <br>
 
+If I want to find contact info I will have the nav bar at the top and the footer at the bottom which both are present on every page. There is a clickable link in both elements. When I click the *contact* link I get to the contact page where I can find contact info, question form, the monthly cost for the membership and a map and address to the gyms location.
+<img src="docs/features/nav_small.jpg">
+<br>
+<img src="docs/features/f_footer.jpg">
+<br>
+<img src="docs/features/f_contact.jpg">
+<br>
+<img src="docs/features/f_location.jpg">
+<hr>
 
 ### Validator testing
 
