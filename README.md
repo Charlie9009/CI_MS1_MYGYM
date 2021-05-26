@@ -18,27 +18,29 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 * As a site owner I want the customer to be able to easily book sessions.
 
-* As a site owner I want the customer to tell their friends and family how much they enjoy my website.
+* As a site owner I want the customer to tell their friends and family how much they enjoy my MyGym.
 
 * As a site owner I want the customer to feel it's worth signing up for the service.
 
-## User goals
+## User stories
 
-* As a user I want to increase my well being.
+* I have not worked out in a while so I want to increase my wellbeing.
 
-* As a user I want to feel inspired to workout when navigating the web page.
+* When I work out I find myself having pain in my back from not training with proper form so I feel I need help.
 
-* As a user I want to build muscles in a safe and effective way.
+* I am a single parent so I dont have a lot of time to work out during the day.
 
-* As a user I want to relate to the brand.
+* I was at the gym the other day and I forgot my bag in a locker and I am wondering if it has been found. I also want to my a personal trainer.
 
-* As a user I want to feel that I can trust the personal trainers from watching their videos.
+* I have become bored of my usual group workout so I want to find a new class.
 
-* As a user I want to see and feel results by using the service.
+* I am a very busy person and I dont like looking a long time for information.
 
-* As a user I want to be able to easily find contact info and location of the gym.
+* My friend just told me about MyGym and how happy he was with the gym so I'm wondering what it costs.
 
-* As a user I want to be able to find the schedule and book sessions.
+* I like working out from home and I am very happy with the online workouts from Athlean X.
+
+* I like to keep up with what is happening with MyGym and when new videos are released.
 
 ## Features
 
