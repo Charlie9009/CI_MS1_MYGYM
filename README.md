@@ -182,6 +182,11 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 ## Testing of user goals
 
+* *As a user I want to be able to manouver the site with ease.* <br>
+As soon as you land on the site there is an easily readible and clean navigation bar which is present throughout every page to have a consistency for the user. When on smaller devices a hamburger menu is used to keep it clean and consistent.
+<img src="docs/features/f_nav_bar.jpg">
+<img src="docs/features/resp_nav_bar.jpg">
+
 
 
 ### Validator testing
