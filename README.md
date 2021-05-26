@@ -185,16 +185,31 @@ I struggled for a time with the contrast of the colors as well, but after some t
 * *As a user I want to be able to manouver the site with ease.* <br>
 As soon as you land on the site there is an easily readible and clean navigation bar which is present throughout every page to have a consistency for the user. When on smaller devices a hamburger menu is used to keep it clean and consistent.
 <img src="docs/features/f_nav_bar.jpg">
+<br>
 <img src="docs/features/resp_nav_bar.jpg">
+<hr>
 
 * *As a user I want to find out what the membership costs.* <br>
 When you land on the site you will see the big carousel with 3 images rotating. When you scroll down you will read the text of the first image which presents the cost for the membership. The cost is also present on the contact page. <br>
 <img src="docs/features/cost_carousel.jpg">
+<hr>
 
 * *As a user I need to be able to find the schedule for the group workouts, book sessions and see when they are.* <br>
 When I land on the page I will see the nav bar, I will see the text for schedule and click the link which will take me to the schedule site. Here I will scroll down and find the form for booking and the schedule with all the workouts. <br>
 <img src="docs/features/nav_small.jpg">
+<br>
 <img src="docs/features/f_schedule.jpg">
+<hr>
+
+* *As a user I want to have a Gym were I can workout and also find videos online.* 
+* *As a user I want to find a workout video fast when I am ready to workout.* <br>
+When I land on the page I will see the nav bar, I will see the text for videos and click the link which will take me to the videos site. <br>
+<img src="docs/features/nav_small.jpg">
+<br>
+<img src="docs/features/f_videos.jpg">
+<hr>
+
+
 
 ### Validator testing
 
