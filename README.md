@@ -187,7 +187,9 @@ As soon as you land on the site there is an easily readible and clean navigation
 <img src="docs/features/f_nav_bar.jpg">
 <img src="docs/features/resp_nav_bar.jpg">
 
-
+* *As a user I want to find out what the membership costs.* <br>
+When you land on the site you will see the big carousel with 3 images rotating. When you scroll down you will read the text of the first image which presents the cost for the membership. The cost is also present on the contact page. <br>
+<img src="docs/features/cost_carousel.jpg">
 
 ### Validator testing
 
