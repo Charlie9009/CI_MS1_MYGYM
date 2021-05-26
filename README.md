@@ -160,6 +160,30 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 ## Testing 
 
+## User goals
+
+* As a user I want to be able to manouver the site with ease.
+
+* As a user I want to find out what the membership costs.
+
+* As a user I need to be able to find the schedule for the group workouts, book sessions and see when they are.
+
+* As a user I want to have a Gym were I can workout and also find videos online.
+
+* As a user I want to find a workout video fast when I am ready to workout.
+
+* As a user I want to be able to easily find contact info and location of the gym when navigating the site.
+
+* As a user I want to find a personal trainer and a gym who can help me with my form.
+
+* As a user I want to find out more about Athlean X.
+
+* As a user I want to have access to MyGyms social media.
+
+## Testing of user goals
+
+
+
 ### Validator testing
 
 * **HTML**
