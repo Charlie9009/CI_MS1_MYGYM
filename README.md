@@ -211,15 +211,21 @@ When I land on the page I will see the nav bar, I will see the text for videos a
 
 * *As a user I want to find a personal trainer and a gym who can help me with my form.*
 * *As a user I want to be able to easily find contact info and location of the gym when navigating the site.* <br>
-When I land on the page the carousel will start rotating and the text in the second image will tell me to go to *contact* and call customer service if I want to talk to a personal trainer. <br>
-<img src="docs/features/">  <br>
+When I land on the page the carousel will start rotating and the text in the second image will tell me to go to *contact*(which is a clickable link) and call customer service if I want to talk to a personal trainer. <br>
+<img src="docs/features/personal_training_carousel.jpg">
+<br>
+<img src="docs/features/contact_info.jpg">
+<br>
 
 If I want to find contact info I will have the nav bar at the top and the footer at the bottom which both are present on every page. There is a clickable link in both elements. When I click the *contact* link I get to the contact page where I can find contact info, question form, the monthly cost for the membership and a map and address to the gyms location.
 <img src="docs/features/nav_small.jpg">
 <br>
+<br>
 <img src="docs/features/f_footer.jpg">
 <br>
+<br>
 <img src="docs/features/f_contact.jpg">
+<br>
 <br>
 <img src="docs/features/f_location.jpg">
 <hr>
