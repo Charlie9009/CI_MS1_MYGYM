@@ -4,7 +4,7 @@
 ## Welcome to my site [MyGym](https://charlie9009.github.io/CI_MS1_MYGYM/)!
 <br>
 MyGym is a site that wants to increase peoples wellbeing and motivate others by offering personal trainers and online videos. Due to Covid, MyGym wants to help people who now struggle with working out. Either by not working out at all, or alone in the wrong way not getting the help needed. By using MyGym they will be able to work out from home in a safe and effective way. <br>
-The site is targeted towards everyone that wants to increase their health and/or wants help to get started with their training. The site is also for people who wants to explore new ways of working out by not being able to go to the gym. MyGym offers a wide variation of group training which can be booked from the site. What makes MyGym special is that we dont allow more than 10 people per personal trainer. This makes it possible for the trainer to tailor the best workout for every customer.
+The site is targeted towards everyone that wants to increase their health and/or wants help to get started with their training. The site is also for people who wants to explore new ways of working out by not being able to go to the gym. MyGym offers a wide variation of group training which can be booked from the site. What makes MyGym special is that we do not allow more than 10 people per personal trainer. This makes it possible for the trainer to tailor the best workout for every customer.
 <img src="docs/mockups/mockup.jpg">
 <hr>
 
@@ -16,27 +16,27 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 * As a site owner I want the customer to feel happy using my service.
 
-* As a site owner I want the customer to be able to easily book sessions.
+* As a site owner I want the customer to be able to easily book workout sessions.
 
 * As a site owner I want the customer to tell their friends and family how much they enjoy my MyGym.
 
-* As a site owner I want the customer to feel it's worth signing up for the service.
+* As a site owner I want the customer to feel it is worth signing up for the service.
 
 ## User stories
 
 * I have not worked out in a while so I want to increase my wellbeing.
 
-* When I work out I find myself having pain in my back from not training with proper form so I feel I need help.
+* Every time I work out I get a pain in my back, my guess is that I am not working out properly.
 
-* I am a single parent so I dont have a lot of time to work out during the day.
+* I am a single parent so I do not have a lot of time to work out during the day.
 
 * I was at the gym the other day and I forgot my bag in a locker and I am wondering if it has been found. I also want to talk to my personal trainer.
 
 * I have become bored of my usual group workout so I want to find a new class.
 
-* I am a very busy person and I dont like looking a long time for information.
+* I am a very busy person and I do not like looking a long time for information.
 
-* My friend just told me about MyGym and how happy he was with the gym so I'm wondering what it costs.
+* My friend just told me about MyGym and how happy he was with the gym so I am wondering what it costs.
 
 * I like working out from home and I am very happy with the online workouts from Athlean X.
 
