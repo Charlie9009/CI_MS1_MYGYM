@@ -125,7 +125,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 
     * The text I wanted to pop out a bit more I gave the color white.
 
-    * The Logo, Nav bar, login button, all the anchor elements and the submit and reset button for the forms I gave hover functions to help the user to navigate easier.
+    * To help the user to navigate easier I gave hover functions to the Logo, Nav bar, login button, all the anchor elements and the submit and reset button for the forms.
 
     * The colors I gave for the different workouts in the Schedule was picked to make them pop out of the other content. A slightly darker tone was picked so it would be a contrast.
 
