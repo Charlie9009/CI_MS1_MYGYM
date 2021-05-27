@@ -115,9 +115,9 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 * Colors
 
-    * I didn't want a white background so I tested a couple of colors and landed on a greyish blue. I chose that because it felt like it didn't take to much attention but still gave the background a little personality.
+    * I did not want a white background so I tested a couple of colors and landed on a greyish blue. I chose that because it felt like it did not take to much attention but still gave the background a little personality.
 
-    * I gave the logo and the nav bar a black color, they were big and visual already. Then I also gave the reading material a black color to make it easy to read.
+    * I gave the logo and the navigation bar a black color, they were big and visual already. Then I also gave the reading material a black color to make it easy to read.
 
     * I gave the login button both in the top right corner and in the carousel a different styling to make it easy to spot. The top right corner has a black container and the text is white. The login button in the Carousel has a white container and black text.
 
@@ -125,7 +125,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 
     * The text I wanted to pop out a bit more I gave the color white.
 
-    * To help the user to navigate easier I gave hover functions to the Logo, Nav bar, login button, all the anchor elements and the submit and reset button for the forms.
+    * To help the user to navigate easier I gave hover functions to the Logo, Navigation bar, login button, all the anchor elements and the submit and reset button for the forms.
 
     * The colors I gave for the different workouts in the Schedule was picked to make them pop out of the other content. A slightly darker tone was picked so it would be a contrast.
 
@@ -135,9 +135,9 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 ## Design
 
-* Most of my design choices came pretty early on the developement, I tested quite bit in Balsamiq and got a core design with four pages. Two of my design choices in the beginning was a big hero image with a lot of information and a login page, so my Mentor suggested me to make a carousel for the hero image and a modal for the login which I thought sounded challenging but a very good idea.<br>
-Some of my choices came in the end of my project when I started experimenting because I didn't like some things and that led to me changing more.
-One of those things was the Logo, Nav bar and login button. I had a more split version for a long period where the elements were far away from eachother and didn't really go together. So I started experimenting and got a better result.<br>
+* Most of my design choices came pretty early on in the developement, I tested quite a bit in Balsamiq and got a core design with four pages. Two of my design choices in the beginning was a big hero image with a lot of information and a login page, so my Mentor suggested to make a carousel for the hero image and a modal for the login which I thought sounded challenging but a very good idea.<br>
+Some of my choices came in the end of my project when I started experimenting because I did not like some things and that led to me changing more.
+One of those things was the Logo, Navigation bar and login button. I had a more split version for a long period where the elements were far away from eachother and did not really go together. So I started experimenting and got a better result.<br>
 I struggled for a time with the contrast of the colors as well, but after some trial and error I managed to put my vision together.
 
 ### Features left to implement
