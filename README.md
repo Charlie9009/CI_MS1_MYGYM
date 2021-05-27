@@ -44,10 +44,10 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 ## Features
 
-* **Navigation bar, Footer section**
+* **Navigation bar and Footer section**
 
-    * The navigation bar and the footer are featured on all four pages and they are responsive. The navigation bar shows links to the Logo, Home, Schedule, Videos, Contact and a Login button. When on smaller screen sizes the login button will dissapear to allow for a clean and user friendly site. The login button is a pop up modal, so when you click it there will be a pop up window in the middle of the screen.
-    * The footer shows Contact info, Social media icons, Athlean X link and MyGyms location. When on smaller screen sizes the footer will only show a link to the contact page and social media icons to make the footer easily navigated.
+    * The navigation bar and the footer are featured on all four pages and they are responsive. The navigation bar show links to the Logo, Home, Schedule, Videos, Contact and a Login button. When on smaller screen sizes the login button will dissapear to allow for a clean and user friendly site. The login button is a pop up modal, so when you click it there will be a pop up window in the middle of the screen.
+    * The footer shows Contact info, Social media icons, an Athlean X link and MyGyms location. When on smaller screen sizes the footer will only show a link to the contact page and social media icons to make the footer easily navigated.
     <img src="docs/features/f_nav_bar.jpg">
     <img src="docs/features/f_login_modal.jpg">
     <img src="docs/features/f_footer.jpg">
@@ -56,8 +56,8 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 * **Hero Section**
 
-    * When you land on the site the first thing the user will see is the big carousel with 3 images rotating.
-    * On the images there are headers with information depending on what the user might be after. There is a login button on every image which is fully responsive. On the first image there's info about the membership cost, on the second image there's info to get in touch with a personal trainer and a link and on the third image there's info about Athlean X and a link to that page. When on a small screen the headers disappear to keep the site clean.
+    * When you land on the site the first thing the user will see is the big carousel with three images rotating.
+    * On the images there are headers with information depending on what the user might be looking for. There is a login button on every image which is fully responsive. On the first image there is info about the membership cost, on the second image there is info to get in touch with a personal trainer and a link and on the third image there is info about Athlean X and a link to that page. When on a small screen the headers disappear to keep the site clean.
     * There is also a header above the carousel to welcome the user.
     <img src="docs/features/f_top_heading_index.jpg">
     <img src="docs/features/f_carousel_1image.jpg">
@@ -66,13 +66,13 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 * **Group Training section**
 
-    * The group training section will give examples of what kind of group trainings are offered and tell the user our personal trainers are well educated.
+    * The group training section will give examples of what kind of group trainings are offered and tell the user MyGyms personal trainers are well educated.
     * This section has an image to encourage the user to work out together with a group.
     <img src="docs/features/f_group_training.jpg">
 
 * **Online Training section**
 
-    * The online training section will encourage the user to check out Athlean X and go to MyGyms video page if they want to workout online, to keep it user friendly links are provided to both pages in the text.
+    * The online training section will encourage the user to check out Athlean X and go to MyGyms video page if they want to workout online. To keep it user friendly links are provided to both pages in the text.
     * This section also has an image from Athlean X to give the user a face to Athlean X.
     <img src="docs/features/f_online_training.jpg">
 
@@ -80,7 +80,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 * **Booking section**
 
-    * Beneath the nav bar there is a heading to welcome the user to the page and to reasure them they are on the schedule page.
+    * Beneath the navigation bar there is a heading to welcome the user to the page and to reasure them they are on the schedule page.
     * There is a form where the user can book their next training session.
 
 * **Schedule section**
@@ -93,7 +93,7 @@ The site is targeted towards everyone that wants to increase their health and/or
 * **Video section**
 
     * At the top of the page there is a heading encouraging the user for todays workout.
-    * Beneath the heading there are a variate of workout videos with different muscelgroups depending on what the user want to work on today.
+    * Beneath the heading there are a variate of workout videos with different muscel groups depending on what the user want to work on today.
     <img src="docs/features/f_videos.jpg">
 
 ### Contact
@@ -103,12 +103,12 @@ The site is targeted towards everyone that wants to increase their health and/or
     * At the top of the page there is a heading to reasure the user they are on the contact page.
     * Beneath the header to the left there is a container with contact information and a price tag for the membership in MyGym.
     * To the right of contact information there is a container with a question form if a user has any questions.
-        * When on smaller devices these two container stacks on top of eachother.
+        * When on smaller devices these two containers stack on top of eachother.
     <img src="docs/features/f_contact.jpg">
 
 * **Location**
 
-    * At the bottom of the page there is a map of the Gyms location and above it text containing the address.
+    * At the bottom of the page there is a map of the Gyms location and above it a header containing the address.
     <img src="docs/features/f_location.jpg">
 
 ## Design choices
