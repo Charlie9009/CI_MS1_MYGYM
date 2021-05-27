@@ -1,28 +1,33 @@
 
 # MyGym
 
-## Welcome to my site [MyGym](https://charlie9009.github.io/CI_MS1_MYGYM/)!
-<br>
-MyGym is a site that wants to increase peoples wellbeing and motivate others by offering personal trainers and online videos. Due to Covid, MyGym wants to help people who now struggle with working out. Either by not working out at all, or alone in the wrong way not getting the help needed. By using MyGym they will be able to work out from home in a safe and effective way. <br>
-The site is targeted towards everyone that wants to increase their health and/or wants help to get started with their training. The site is also for people who wants to explore new ways of working out by not being able to go to the gym. MyGym offers a wide variation of group training which can be booked from the site. What makes MyGym special is that we do not allow more than 10 people per personal trainer. This makes it possible for the trainer to tailor the best workout for every customer.
 <img src="docs/mockups/mockup.jpg">
 <hr>
 
-## Site owner goals
+## Welcome to my site [MyGym](https://charlie9009.github.io/CI_MS1_MYGYM/)!
+<br>
 
-* As a site owner I want the customer to trust the brand.
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+# Table of Content
 
-* As a site owner I want to offer the customer a good service.
+1. [Project goals](#project-goals)
 
-* As a site owner I want the customer to feel happy using my service.
+2. [User experience](#user-experience)
+    1. [Target audience](#target-audience)
+    2. [User stories](#user-stories)
+    3. [Design](#design)
 
-* As a site owner I want the customer to be able to easily book workout sessions.
+## Project goals
+* MyGym is a site that wants to increase peoples wellbeing and motivate others by offering personal trainers and online videos. Due to Covid, MyGym wants to help people who now struggle with working out. Either by not working out at all, or alone in the wrong way not getting the help needed. By using MyGym they will be able to work out from home in a safe and effective way. <br>
+What makes MyGym special is that we do not allow more than 10 people per personal trainer. This makes it possible for the trainer to tailor the best workout for every customer.
 
-* As a site owner I want the customer to tell their friends and family how much they enjoy my MyGym.
+## User experience
 
-* As a site owner I want the customer to feel it is worth signing up for the service.
+### Target audience
 
-## User stories
+The site is targeted towards everyone that wants to increase their health and/or wants help to get started with their training. The site is also for people who wants to explore new ways of working out by not being able to go to the gym. MyGym offers a wide variation of group training which can be booked from the site. 
+
+### User stories
 
 * I have not worked out in a while so I want to increase my wellbeing.
 
@@ -41,6 +46,55 @@ The site is targeted towards everyone that wants to increase their health and/or
 * I like working out from home and I am very happy with the online workouts from Athlean X.
 
 * I like to keep up with what is happening with MyGym and when new videos are released.
+
+### Site owner goals
+
+* As a site owner I want the customer to trust the brand.
+
+* As a site owner I want to offer the customer a good service.
+
+* As a site owner I want the customer to feel happy using my service.
+
+* As a site owner I want the customer to be able to easily book workout sessions.
+
+* As a site owner I want the customer to tell their friends and family how much they enjoy my MyGym.
+
+* As a site owner I want the customer to feel it is worth signing up for the service.
+
+### Design
+
+* Most of my design choices came pretty early on in the developement, I tested quite a bit in Balsamiq and got a core design with four pages. Two of my design choices in the beginning was a big hero image with a lot of information and a login page, so my Mentor suggested to make a carousel for the hero image and a modal for the login which I thought sounded challenging but a very good idea.<br>
+Some of my choices came in the end of my project when I started experimenting because I did not like some things and that led to me changing more.
+One of those things was the Logo, Navigation bar and login button. I had a more split version for a long period where the elements were far away from eachother and did not really go together. So I started experimenting and got a better result.<br>
+I struggled for a time with the contrast of the colors as well, but after some trial and error I managed to put my vision together.
+
+#### Colors
+
+* I did not want a white background so I tested a couple of colors and landed on a greyish blue. I chose that because it felt like it did not take to much attention but still gave the background a little personality.
+
+* I gave the logo and the navigation bar a black color, they were big and visual already. Then I also gave the reading material a black color to make it easy to read.
+
+* I gave the login button both in the top right corner and in the carousel a different styling to make it easy to spot. The top right corner has a black container and the text is white. The login button in the Carousel has a white container and black text.
+
+* In the Carousel I gave the text for the different images different colors to contrast the colors in the images.
+
+* The text I wanted to pop out a bit more I gave the color white.
+
+* To help the user to navigate easier I gave hover functions to the Logo, Navigation bar, login button, all the anchor elements and the submit and reset button for the forms.
+
+* The colors I gave for the different workouts in the Schedule was picked to make them pop out of the other content. A slightly darker tone was picked so it would be a contrast.
+
+#### Fonts
+
+* I early on picked the font **Quicksand** and I stuck with that font throughout the project because I liked it. For the backup I picked **Sans-serif**.
+
+### Wireframes
+
+* Below you can see the links to the respective wireframes
+
+    * Full size, Desktop [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_fullsize_desktop.pdf)
+    * Tablet [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_tablet.pdf)
+    * Mobile [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_mobile.pdf)
 
 ## Features
 
@@ -111,35 +165,6 @@ The site is targeted towards everyone that wants to increase their health and/or
     * At the bottom of the page there is a map of the Gyms location and above it a header containing the address.
     <img src="docs/features/f_location.jpg">
 
-## Design choices
-
-* Colors
-
-    * I did not want a white background so I tested a couple of colors and landed on a greyish blue. I chose that because it felt like it did not take to much attention but still gave the background a little personality.
-
-    * I gave the logo and the navigation bar a black color, they were big and visual already. Then I also gave the reading material a black color to make it easy to read.
-
-    * I gave the login button both in the top right corner and in the carousel a different styling to make it easy to spot. The top right corner has a black container and the text is white. The login button in the Carousel has a white container and black text.
-
-    * In the Carousel I gave the text for the different images different colors to contrast the colors in the images.
-
-    * The text I wanted to pop out a bit more I gave the color white.
-
-    * To help the user to navigate easier I gave hover functions to the Logo, Navigation bar, login button, all the anchor elements and the submit and reset button for the forms.
-
-    * The colors I gave for the different workouts in the Schedule was picked to make them pop out of the other content. A slightly darker tone was picked so it would be a contrast.
-
-* Fonts
-
-    * I early on picked the font **Quicksand** and I stuck with that font throughout the project because I liked it. For the backup I picked **Sans-serif**.
-
-## Design
-
-* Most of my design choices came pretty early on in the developement, I tested quite a bit in Balsamiq and got a core design with four pages. Two of my design choices in the beginning was a big hero image with a lot of information and a login page, so my Mentor suggested to make a carousel for the hero image and a modal for the login which I thought sounded challenging but a very good idea.<br>
-Some of my choices came in the end of my project when I started experimenting because I did not like some things and that led to me changing more.
-One of those things was the Logo, Navigation bar and login button. I had a more split version for a long period where the elements were far away from eachother and did not really go together. So I started experimenting and got a better result.<br>
-I struggled for a time with the contrast of the colors as well, but after some trial and error I managed to put my vision together.
-
 ### Features left to implement
 
 * **Personal trainers**
@@ -149,14 +174,6 @@ I struggled for a time with the contrast of the colors as well, but after some t
 * **Group training**
 
     * A section with information about every single group workout offered at the gym and a layout of how every session could look like.
-
-## Wireframes
-
-* **Below you can see the links to the respective wireframes**
-
-    * Full size, Desktop [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_fullsize_desktop.pdf)
-    * Tablet [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_tablet.pdf)
-    * Mobile [Wireframe](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/wireframes/mygym_mobile.pdf)
 
 ## Testing 
 
