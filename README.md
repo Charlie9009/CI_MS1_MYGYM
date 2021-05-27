@@ -190,12 +190,12 @@ As soon as you land on the homepage there is an easily readible and clean naviga
 <hr>
 
 * *As a user I want to find out what the membership costs.* <br>
-When you land on the homepage you will see the big carousel with 3 images rotating. When you scroll down you will read the text of the first image which presents the cost for the membership. The cost is also present on the contact page. <br>
+When you land on the homepage you will see the big carousel with three images rotating. When you scroll down you will read the text of the first image which presents the cost for the membership. The cost is also present on the contact page. <br>
 <img src="docs/features/cost_carousel.jpg">
 <hr>
 
 * *As a user I need to be able to find the schedule for the group workouts, book sessions and see when they are.* <br>
-When I land on the homepage I will see the nav bar, I will see the text for schedule and click the link which will take me to the schedule site. Here I will scroll down and find the form for booking and the schedule with all the workouts. <br>
+When I land on the homepage I will see the navigation bar, I will see the text for schedule and click the link which will take me to the schedule site. Here I will scroll down and find the form for booking and the schedule with all the workouts. <br>
 <img src="docs/features/nav_small.jpg">
 <br>
 <img src="docs/features/f_schedule.jpg">
@@ -203,7 +203,7 @@ When I land on the homepage I will see the nav bar, I will see the text for sche
 
 * *As a user I want to have a Gym were I can workout and also find videos online.* 
 * *As a user I want to find a workout video fast when I am ready to workout.* <br>
-When I land on the homepage I will see the nav bar, I will see the text for videos and click the link which will take me to the videos site. <br>
+When I land on the homepage I will see the navigation bar, I will see the text for videos and click the link which will take me to the videos site. <br>
 <img src="docs/features/nav_small.jpg">
 <br>
 <img src="docs/features/f_videos.jpg">
@@ -217,7 +217,7 @@ When I land on the homepage the carousel will start rotating and the text in the
 <hr>
 
 * *As a user I want to be able to easily find contact info and location of the gym when navigating the site.* <br>
-If I want to find contact info I will have the nav bar at the top and the footer at the bottom which both are present on every page. There is a clickable link in both elements. When I click the *contact* link I get to the contact page where I can find contact info, question form, the monthly cost for the membership and a map and address to the gyms location.
+If I want to find contact info I will have the navigation bar at the top and the footer at the bottom which both are present on every page. There is a clickable link in both elements. When I click the *contact* link I get to the contact page where I can find contact info, question form, the monthly cost for the membership and a map and address to the gyms location.
 <img src="docs/features/nav_small.jpg">
 <br>
 <br>
@@ -231,7 +231,7 @@ If I want to find contact info I will have the nav bar at the top and the footer
 <hr>
 
 * *As a user I want to find out more about Athlean X.* <br>
-When I land on the homepage the carousel starts to rotate and the third image is of the *Athlean X* site. The text provides me with a link to the site and tells me to join up. If I scroll down I get to a section where I can find another link to Athlean X. There is also a link in the footer if I would ever feel lost on the page. <br>
+When I land on the homepage the carousel starts to rotate and the third image is of the *Athlean X* site. The text provides me with a link to the site and encourages me to join up. If I scroll down I get to a section where I can find another link to Athlean X. There is also a link in the footer if I would ever feel lost on the page. <br>
 <img src="docs/features/f_carousel_3image.jpg">
 <br>
 <br>
@@ -327,7 +327,7 @@ When I land on the homepage I have the footer visible on the bottom of the page 
 
 ## Code Credit
 
-* Code from Social Media Column Footer, with Font Awesome icons was copyed and restyled from Code Institutes "Love Running" project. (https://charlie9009.github.io/love-running/)
+* Code from Social Media Column Footer, with Font Awesome icons was copied and restyled from Code Institutes "Love Running" project. (https://charlie9009.github.io/love-running/)
 
 * Code for the Modal Login button and the pop up window was used from [codehim](https://www.codehim.com/bootstrap/bootstrap-4-modal-popup-login-form/). Styling was added to a degree for the login button only.
 
