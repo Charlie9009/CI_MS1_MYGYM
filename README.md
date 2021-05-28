@@ -16,6 +16,23 @@
     1. [Target audience](#target-audience)
     2. [User stories](#user-stories)
     3. [Design](#design)
+    4. [Wireframes](#wireframes)
+3. [Feature](#feature)
+4. [Technologies used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Libraries and programs](#libraries-and-programs)
+5. [Testing](#testing)
+    1. [HTML](#html)
+    2. [CSS](#css)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#Performance)
+    5. [Further testing](#further-testing)
+    6. [User stories](#user-stories)
+6. [Bugs](#bugs)
+7. [Deployement](#deployement)
+8. [Credit](#credit)
+    1. [Media credit](#media-credit)
+    2. [Acknowledgement](#acknowledgement)
 
 ## Project goals
 * MyGym is a site that wants to increase peoples wellbeing and motivate others by offering personal trainers and online videos. Due to Covid, MyGym wants to help people who now struggle with working out. Either by not working out at all, or alone in the wrong way not getting the help needed. By using MyGym they will be able to work out from home in a safe and effective way. <br>
