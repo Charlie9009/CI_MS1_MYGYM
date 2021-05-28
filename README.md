@@ -138,6 +138,17 @@ I struggled for a time with the contrast of the colors as well, but after some t
     <img src="docs/features/f_nav_bar.jpg">
     <img src="docs/features/f_login_modal.jpg">
     <img src="docs/features/f_footer.jpg">
+### User stories covered by feature:
+2. As a first time user I want to be able to find the location of the gym.
+3. As a first time user I want to be able to find the schedule to see what kinds of group workouts are offered and when.
+4. As a first time user I want to know where I can find workout videos online.
+5. As a first time user I need to come in contact with a personal trainer.
+6. As a first time user I want to find MyGyms social media accounts so I can see how often they update their content.
+9. As a regular user I want to find the contact info to be able to speak to a personal trainer.
+10. As a regular user I want to be able to ask MyGym questions.
+11. As a regular user I want to find out more about Athlean X.
+12. As a regular user and want to have easy access to MyGyms social media so I can see when they release a new video.
+<hr>
 
 ### Home
 
@@ -148,8 +159,19 @@ I struggled for a time with the contrast of the colors as well, but after some t
     * There is also a header above the carousel to welcome the user.
     <img src="docs/features/f_top_heading_index.jpg">
     <img src="docs/features/f_carousel_1image.jpg">
+
+### User stories covered by feature:
+1. As a first time user I want to find out what the membership costs. 
+    <hr>
     <img src="docs/features/f_carousel_2image.jpg">
+### User stories covered by feature:
+5. As a first time user I need to come in contact with a personal trainer. 
+9. As a regular user I want to find the contact info to be able to speak to a personal trainer.
+    <hr>
     <img src="docs/features/f_carousel_3image.jpg">
+### User stories covered by feature:
+11. As a regular user I want to find out more about Athlean X.
+<hr>
 
 * **Group Training section**
 
@@ -162,18 +184,24 @@ I struggled for a time with the contrast of the colors as well, but after some t
     * The online training section will encourage the user to check out Athlean X and go to MyGyms video page if they want to workout online. To keep it user friendly links are provided to both pages in the text.
     * This section also has an image from Athlean X to give the user a face to Athlean X.
     <img src="docs/features/f_online_training.jpg">
+### User stories covered by feature:
+4. As a first time user I want to know where I can find workout videos online.
+8. As a regular user I want to have easy access to workout videos when I am ready to workout.
+11. As a regular user I want to find out more about Athlean X.
+<hr>
 
 ### Schedule
 
-* **Booking section**
+* **Schedule section**
 
     * Beneath the navigation bar there is a heading to welcome the user to the page and to reasure them they are on the schedule page.
     * There is a form where the user can book their next training session.
-
-* **Schedule section**
-
     * Beneath the form there is a big schedule where you can see the weeks training sessions, there is information about what workout, which day and time, as well as the personal trainer leading the session.
     <img src="docs/features/f_schedule.jpg">
+### User stories covered by feature:
+3. As a first time user I want to be able to find the schedule to see what kinds of group workouts are offered and when.
+7. As a regular user I want to be able to book group workouts.
+<hr>
 
 ### Videos
 
@@ -182,6 +210,11 @@ I struggled for a time with the contrast of the colors as well, but after some t
     * At the top of the page there is a heading encouraging the user for todays workout.
     * Beneath the heading there are a variate of workout videos with different muscel groups depending on what the user want to work on today.
     <img src="docs/features/f_videos.jpg">
+### User stories covered by feature:
+4. As a first time user I want to know where I can find workout videos online.
+8. As a regular user I want to have easy access to workout videos when I am ready to workout.
+11. As a regular user I want to find out more about Athlean X.
+<hr>
 
 ### Contact
 
@@ -192,11 +225,20 @@ I struggled for a time with the contrast of the colors as well, but after some t
     * To the right of contact information there is a container with a question form if a user has any questions.
         * When on smaller devices these two containers stack on top of eachother.
     <img src="docs/features/f_contact.jpg">
+### User stories covered by feature:
+1. As a first time user I want to find out what the membership costs. 
+5. As a first time user I need to come in contact with a personal trainer. 
+9. As a regular user I want to find the contact info to be able to speak to a personal trainer.
+10. As a regular user I want to be able to ask MyGym questions.
+<hr>
 
 * **Location**
 
     * At the bottom of the page there is a map of the Gyms location and above it a header containing the address.
     <img src="docs/features/f_location.jpg">
+### User stories covered by feature:
+2. As a first time user I want to be able to find the location of the gym.
+<hr>
 
 ### Features left to implement
 
