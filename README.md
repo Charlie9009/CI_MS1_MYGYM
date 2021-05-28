@@ -46,37 +46,53 @@ The site is targeted towards everyone that wants to increase their health and/or
 
 ### User stories
 
-* I have not worked out in a while so I want to increase my wellbeing.
+#### First time user
 
-* Every time I work out I get a pain in my back, my guess is that I am not working out properly.
+1. As a first time user I want to find out what the membership costs.
 
-* I am a single parent so I do not have a lot of time to work out during the day.
+2. As a first time user I want to be able to find the location of the gym.
 
-* I was at the gym the other day and I forgot my bag in a locker and I am wondering if it has been found. I also want to talk to my personal trainer.
+3. As a first time user I want to be able to find the schedule to see what kinds of
+group workouts are offered and when.
 
-* I have become bored of my usual group workout so I want to find a new class.
+4. As a first time user I want to know where I can find workout videos online.
 
-* I am a very busy person and I do not like looking a long time for information.
+5. As a first time user I need help with exercises and how to do them correctly
+without injuring myself.
 
-* My friend just told me about MyGym and how happy he was with the gym so I am wondering what it costs.
+6. As a first time user I want to find MyGyms social media accounts so I can see
+how often they update their content.
 
-* I like working out from home and I am very happy with the online workouts from Athlean X.
+#### Regular user
 
-* I like to keep up with what is happening with MyGym and when new videos are released.
+7. As a regular user I want to be able to book group workouts.
 
-### Site owner goals
+8. As a regular user I want to have easy access to workout videos when I am
+ready to workout.
 
-* As a site owner I want the customer to trust the brand.
+9. As a regular user I want to find the contact info to be able to speak to a
+personal trainer.
 
-* As a site owner I want to offer the customer a good service.
+10. As a regular user I want to be able to ask MyGym questions.
 
-* As a site owner I want the customer to feel happy using my service.
+11. As a regular user I want to find out more about Athlean X.
 
-* As a site owner I want the customer to be able to easily book workout sessions.
+12. As a regular user and want to have easy access to MyGyms social media so I
+can see when they release a new video.
 
-* As a site owner I want the customer to tell their friends and family how much they enjoy my MyGym.
+#### Site owner goals
 
-* As a site owner I want the customer to feel it is worth signing up for the service.
+13. As a site owner I want the customer to trust the brand.
+
+14. As a site owner I want to offer the customer a good service.
+
+15. As a site owner I want the customer to feel happy using my service.
+
+16. As a site owner I want the customer to be able to easily book workout sessions.
+
+17. As a site owner I want the customer to tell their friends and family how much they enjoy my MyGym.
+
+18. As a site owner I want the customer to feel it is worth signing up for the service.
 
 ### Design
 
