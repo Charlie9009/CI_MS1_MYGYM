@@ -270,7 +270,7 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * Friends and family has been asked to review the site.
 
-## Testing of user goals
+## Testing user stories
 
 * *As a user I want to be able to manouver the site with ease.* <br>
 As soon as you land on the homepage there is an easily readible and clean navigation bar which is present throughout every page to have a consistency for the user. When on smaller devices a hamburger menu is used to keep it clean and consistent.
