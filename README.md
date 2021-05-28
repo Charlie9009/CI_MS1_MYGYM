@@ -96,7 +96,7 @@ can see when they release a new video.
 
 ### Design
 
-* Most of my design choices came pretty early on in the developement, I tested quite a bit in Balsamiq and got a core design with four pages. Two of my design choices in the beginning was a big hero image with a lot of information and a login page, so my Mentor suggested to make a carousel for the hero image and a modal for the login which I thought sounded challenging but a very good idea.<br>
+* Most of my design choices came early on in the developement, I tested quite a bit in Balsamiq and got a core design with four pages. Two of my design choices in the beginning was a big hero image with a lot of information and a login page, so my Mentor suggested to make a carousel for the hero image and a modal for the login which I thought sounded challenging but a very good idea.<br>
 Some of my choices came in the end of my project when I started experimenting because I did not like some things and that led to me changing more.
 One of those things was the Logo, Navigation bar and login button. I had a more split version for a long period where the elements were far away from eachother and did not really go together. So I started experimenting and got a better result.<br>
 I struggled for a time with the contrast of the colors as well, but after some trial and error I managed to put my vision together.
@@ -208,27 +208,67 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
     * A section with information about every single group workout offered at the gym and a layout of how every session could look like.
 
-## Testing 
+## Technologies used
 
-## User goals
+### Languages
 
-* As a user I want to be able to manouver the site with ease.
+* HTML5
 
-* As a user I want to find out what the membership costs.
+* CSS3
 
-* As a user I need to be able to find the schedule for the group workouts, book sessions and see when they are.
+## Libraries and programs
 
-* As a user I want to have a Gym were I can workout and also find videos online.
+* To get the "Modal Log in pop up window" to work, Bootstrap 4.1.3, jQuery and Popper JS was used.
 
-* As a user I want to find a workout video fast when I am ready to workout.
+* Font Awesome icons where used for social media in the footer.
 
-* As a user I want to be able to easily find contact info and location of the gym when navigating the site.
+* The Gitpod terminal was used to commit and push to Github.
 
-* As a user I want to find a personal trainer and a gym who can help me with my form.
+* Github is used to store the code.
 
-* As a user I want to find out more about Athlean X.
+* Balsamiq was used to create the projects wireframes.
 
-* As a user I want to have access to MyGyms social media.
+* WC3 Validator, Jigsaw W3 Validator, Wave Validator, Lighthouse and ami.responsivedesign were all used to test the website.
+
+## Testing
+
+### Validator testing
+
+#### HTML
+
+* No errors were found on index.html when passing through WC3 Validator, [index.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_index_validator.JPG)
+
+* No errors were found on schedule.html when passing through WC3 Validator, [schedule.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_schedule_validator.JPG)
+
+* No errors were found on videos.html when passing through WC3 Validator, [videos.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_videos_validator.JPG)
+
+* No errors were found on contact.html when passing through WC3 Validator, [contact.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_contact_validator.JPG)
+
+#### CSS
+
+* No errors were found on the CSS file when passing through Jigsaw W3 Validator, [CSS](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/css_validator.JPG)
+
+#### Accessibility
+
+* No errors were found on the index.html when passing through Wave Web Accessibility Validator, [index.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_index_validator.JPG)
+
+* No errors were found on the schedule.html when passing through Wave Web Accessibility Validator, [schedule.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_schedule_validator.JPG)
+
+* No errors were found on the videos.html when passing through Wave Web Accessibility Validator, [videos.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_videos_validator.JPG)
+
+* No errors were found on the contact.html when passing through Wave Web Accessibility Validator, [contact.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_contact_validator.JPG)
+
+#### Performance 
+
+* Lighthouse was used to test the performance and the speed of the site.
+
+## Further testing
+
+* The website has been inspected thru the device toolbar in chrome.
+
+* I have tested the website thru phones like One Plus 8T and Iphone XR.
+
+* Friends and family has been asked to review the site.
 
 ## Testing of user goals
 
@@ -296,47 +336,7 @@ When I land on the homepage I have the footer visible on the bottom of the page 
 <img src="docs/features/f_footer.jpg">
 <hr>
 
-### Validator testing
-
-* **HTML**
-
-    * No errors were found on index.html when passing through WC3 Validator, [index.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_index_validator.JPG)
-
-    * No errors were found on schedule.html when passing through WC3 Validator, [schedule.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_schedule_validator.JPG)
-
-    * No errors were found on videos.html when passing through WC3 Validator, [videos.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_videos_validator.JPG)
-
-    * No errors were found on contact.html when passing through WC3 Validator, [contact.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/html_contact_validator.JPG)
-
-* **CSS**
-
-    * No errors were found on the CSS file when passing through Jigsaw W3 Validator, [CSS](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/css_validator.JPG)
-
-* **Wave**
-
-    * No errors were found on the index.html when passing through Wave Validator, [index.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_index_validator.JPG)
-
-    * No errors were found on the schedule.html when passing through Wave Validator, [schedule.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_schedule_validator.JPG)
-
-    * No errors were found on the videos.html when passing through Wave Validator, [videos.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_videos_validator.JPG)
-
-    * No errors were found on the contact.html when passing through Wave Validator, [contact.html](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/wave_contact_validator.JPG)
-
-## Further testing
-
-* The website has been inspected thru the device toolbar in chrome.
-
-* I have tested the website thru phones like One Plus 8T and Iphone XR.
-
-* Friends and family has been asked to review the site.
-
-## Known bugs
-
-* Login in, and signing up does not work. This is something that will be developed later.
-
-* Submitting the Schedule Form or the Question Form does not work. This will also be developed later.
-
-## Squashed bugs
+## Bugs
 
 * For a while I had problems with the bootstrap and Javascript overriding my own CSS rules. I fixed it by placing my CSS stylesheet beneath the other links to have more priority.
 
@@ -346,34 +346,33 @@ When I land on the homepage I have the footer visible on the bottom of the page 
 
 ## Deployment
 
-* The site was deployed to github pages.
+* *The site was deployed to github pages.*
 
-    1. In your repository find the settings button and click it.
-    2. Scroll down to GitHub Pages, beneath it says "Pages settings now has its own dedicated tab! Check it out here!" Click on "Check it out here".
-    3. Find source and from the drop-down menu select master from branch, click save, let it update.
-        * Here is a live link to the page https://charlie9009.github.io/CI_MS1_MYGYM/
+    1. Log in to Github.
+    2. In your repository find the settings button and click it.
+    3. Scroll down to GitHub Pages, beneath it says "Pages settings now has its own dedicated tab! Check it out here!" Click on "Check it out here".
+    4. Find source.
+    5. From the drop-down menu select master from branch, click save, let it automatically update.
+    6. You can now find a live version of the published site under Github pages https://charlie9009.github.io/CI_MS1_MYGYM/.
 
-## Responsive on all devices
+### Forking a repository
 
-## Languages Used
+    1. Log in to Github.
+    2. Find the repository.
+    3. In the top right corner click the fork button.
+    4. Now you will have a copy of the repository in your account.
 
-* HTML5
+### Cloning a repository
 
-* CSS3
-
-## Libraries and different programs used
-
-* To get the "Modal Log in pop up window" to work, Bootstrap 4.1.3, jQuery and Popper JS was used.
-
-* Font Awesome icons where used for social media in the footer.
-
-* The Gitpod terminal was used to commit and push to Github.
-
-* Github is used to store the code.
-
-* Balsamiq was used to create the projects wireframes.
-
-* WC3 Validator, Jigsaw W3 Validator, Wave Validator, Lighthouse and ami.responsivedesign were all used to test the website.
+    1. Log in to Github.
+    2. Find the repository.
+    3. Above the file window locate the green code button and click it.
+    4. To clone the repository using https copy the link.
+    5. Open Git bash.
+    6. Change the current directory to where you want the repository cloned.
+    7. In your terminal type now type “Git clone” followed by the repository you copied.
+    8. Press Enter.
+    9. Done.
 
 ## Code Credit
 
@@ -398,6 +397,8 @@ When I land on the homepage I have the footer visible on the bottom of the page 
 * https://freemotionfitness.com/fusion-team-training/
 
 * https://athleanx.com/
+
+### Videos were used from Athlean X
 
 ## Acknowledgement
 
