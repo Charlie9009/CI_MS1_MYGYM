@@ -17,7 +17,7 @@
     2. [User stories](#user-stories)
     3. [Design](#design)
     4. [Wireframes](#wireframes)
-3. [Feature](#feature)
+3. [Features](#features)
 4. [Technologies used](#technologies-used)
     1. [Languages](#languages)
     2. [Libraries and programs](#libraries-and-programs)
@@ -27,9 +27,9 @@
     3. [Accessibility](#accessibility)
     4. [Performance](#Performance)
     5. [Further testing](#further-testing)
-    6. [User stories](#user-stories)
+    6. [Testing user stories](#testing-user-stories)
 6. [Bugs](#bugs)
-7. [Deployement](#deployement)
+7. [Deployment](#deployment)
 8. [Credit](#credit)
     1. [Media credit](#media-credit)
     2. [Acknowledgement](#acknowledgement)
@@ -374,7 +374,7 @@ When I land on the homepage I have the footer visible on the bottom of the page 
     8. Press Enter.
     9. Done.
 
-## Code Credit
+## Credit
 
 * Code from Social Media Column Footer, with Font Awesome icons was copied and restyled from Code Institutes "Love Running" project. (https://charlie9009.github.io/love-running/)
 
