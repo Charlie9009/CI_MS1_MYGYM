@@ -314,18 +314,25 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 ## Testing user stories
 
-1. As a user I want to find out what the membership costs.
+1. As a first time user I want to find out what the membership costs.
+
+|                     Feature                           |              Action                  |                       Expected result                      |   Actual result   |
+|                  :----------:                         |              :------------:          |                     :-----------------:                    | :---------------: |
+| Find membership price on first image of the carousel  | Scroll down                          |   I will find the price on the first image in the carousel | Works as expected |
+| Find membership price on contact page                 | Click contact in the Navigation bar  |   I will find the price on contact page                    | Works as expected |
+
+2. As a first time user I want to be able to find the location of the gym.
+
+|                     Feature                           |              Action                                 |                       Expected result                         |   Actual result   |
+|                  :----------:                         |              :------------:                         |                     :-----------------:                       | :---------------: |
+| Find address in the footer                            |                None                                 | I will find the address in the right hand side of the footer  | Works as expected |
+| Find address and map on the contact page              | Click contact in the Navigation bar and scroll down |   I will find the location at the bottom of the page          | Works as expected |
 
 * *As a user I want to be able to manouver the site with ease.* <br>
 As soon as you land on the homepage there is an easily readible and clean navigation bar which is present throughout every page to have a consistency for the user. When on smaller devices a hamburger menu is used to keep it clean and consistent.
 <img src="docs/features/f_nav_bar.jpg">
 <br>
 <img src="docs/features/resp_nav_bar.jpg">
-<hr>
-
-* *As a user I want to find out what the membership costs.* <br>
-When you land on the homepage you will see the big carousel with three images rotating. When you scroll down you will read the text of the first image which presents the cost for the membership. The cost is also present on the contact page. <br>
-<img src="docs/features/cost_carousel.jpg">
 <hr>
 
 * *As a user I need to be able to find the schedule for the group workouts, book sessions and see when they are.* <br>
