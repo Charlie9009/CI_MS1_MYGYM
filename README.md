@@ -319,14 +319,86 @@ I struggled for a time with the contrast of the colors as well, but after some t
 |                     Feature                           |              Action                  |                       Expected result                      |   Actual result   |
 |                  :----------:                         |              :------------:          |                     :-----------------:                    | :---------------: |
 | Find membership price on first image of the carousel  | Scroll down                          |   I will find the price on the first image in the carousel | Works as expected |
-| Find membership price on contact page                 | Click contact in the Navigation bar  |   I will find the price on contact page                    | Works as expected |
+| Find membership price on contact page                 | Click contact in the navigation bar  |   I will find the price on contact page                    | Works as expected |
+
 
 2. As a first time user I want to be able to find the location of the gym.
 
 |                     Feature                           |              Action                                 |                       Expected result                         |   Actual result   |
 |                  :----------:                         |              :------------:                         |                     :-----------------:                       | :---------------: |
 | Find address in the footer                            |                None                                 | I will find the address in the right hand side of the footer  | Works as expected |
-| Find address and map on the contact page              | Click contact in the Navigation bar and scroll down |   I will find the location at the bottom of the page          | Works as expected |
+| Find address and map on the contact page              | Click contact in the navigation bar and scroll down |   I will find the location at the bottom of the page          | Works as expected |
+
+3. As a first time user I want to be able to find the schedule to see what kinds of group workouts are offered and when.
+
+|                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
+|                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
+| Find schedule in the schedule page               | Click schedule in the navigation bar and scroll down  |   I will find the schedule as I scroll down                   | Works as expected |
+| Find address and map on the contact page         | Click contact in the navigation bar and scroll down   |   I will find the location at the bottom of the page          | Works as expected |
+
+4. As a first time user I want to know where I can find workout videos online.
+
+|                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
+|                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
+| Find schedule in the schedule page               | Click schedule in the navigation bar and scroll down  |   I will find the schedule as I scroll down                   | Works as expected |
+| Find address and map on the contact page         | Click contact in the navigation bar and scroll down   |   I will find the location at the bottom of the page          | Works as expected |
+
+5. As a first time user I need help with exercises and how to do them correctly without injuring myself.
+
+|                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
+|                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
+| Find schedule in the schedule page               | Click schedule in the navigation bar and scroll down  |   I will find the schedule as I scroll down                   | Works as expected |
+| Find address and map on the contact page         | Click contact in the navigation bar and scroll down   |   I will find the location at the bottom of the page          | Works as expected |
+
+6. As a first time user I want to find MyGyms social media accounts so I can see how often they update their content.
+
+|                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
+|                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
+| Find schedule in the schedule page               | Click schedule in the navigation bar and scroll down  |   I will find the schedule as I scroll down                   | Works as expected |
+| Find address and map on the contact page         | Click contact in the navigation bar and scroll down   |   I will find the location at the bottom of the page          | Works as expected |
+
+7. As a regular user I want to be able to book group workouts.
+
+|                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
+|                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
+| Find schedule in the schedule page               | Click schedule in the navigation bar and scroll down  |   I will find the schedule as I scroll down                   | Works as expected |
+| Find address and map on the contact page         | Click contact in the navigation bar and scroll down   |   I will find the location at the bottom of the page          | Works as expected |
+
+8. As a regular user I want to have easy access to workout videos when I am ready to workout.
+
+|                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
+|                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
+| Find schedule in the schedule page               | Click schedule in the navigation bar and scroll down  |   I will find the schedule as I scroll down                   | Works as expected |
+| Find address and map on the contact page         | Click contact in the navigation bar and scroll down   |   I will find the location at the bottom of the page          | Works as expected |
+
+9. As a regular user I want to find the contact info to be able to speak to a personal trainer.
+
+|                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
+|                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
+| Find schedule in the schedule page               | Click schedule in the navigation bar and scroll down  |   I will find the schedule as I scroll down                   | Works as expected |
+| Find address and map on the contact page         | Click contact in the navigation bar and scroll down   |   I will find the location at the bottom of the page          | Works as expected |
+
+10. As a regular user I want to be able to ask MyGym questions.
+
+|                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
+|                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
+| Find schedule in the schedule page               | Click schedule in the navigation bar and scroll down  |   I will find the schedule as I scroll down                   | Works as expected |
+| Find address and map on the contact page         | Click contact in the navigation bar and scroll down   |   I will find the location at the bottom of the page          | Works as expected |
+
+11. As a regular user I want to find out more about Athlean X.
+
+|                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
+|                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
+| Find schedule in the schedule page               | Click schedule in the navigation bar and scroll down  |   I will find the schedule as I scroll down                   | Works as expected |
+| Find address and map on the contact page         | Click contact in the navigation bar and scroll down   |   I will find the location at the bottom of the page          | Works as expected |
+
+12. As a regular user and want to have easy access to MyGyms social media so I can see when they release a new video.
+
+|                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
+|                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
+| Find schedule in the schedule page               | Click schedule in the navigation bar and scroll down  |   I will find the schedule as I scroll down                   | Works as expected |
+| Find address and map on the contact page         | Click contact in the navigation bar and scroll down   |   I will find the location at the bottom of the page          | Works as expected |
+
 
 * *As a user I want to be able to manouver the site with ease.* <br>
 As soon as you land on the homepage there is an easily readible and clean navigation bar which is present throughout every page to have a consistency for the user. When on smaller devices a hamburger menu is used to keep it clean and consistent.
