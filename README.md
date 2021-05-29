@@ -314,7 +314,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 |                  :----------:                         |              :------------:          |                     :-----------------:                    | :---------------: |
 | Find membership price on first image of the carousel  | Scroll down                          |   I will find the price on the first image in the carousel | Works as expected |
 | Find membership price on contact page                 | Click contact in the navigation bar  |   I will find the price on contact page                    | Works as expected |
-
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_1.jpg)
+<hr>
 
 2. As a first time user I want to be able to find the location of the gym.
 
@@ -322,12 +323,16 @@ I struggled for a time with the contrast of the colors as well, but after some t
 |                  :----------:                         |              :------------:                         |                     :-----------------:                       | :---------------: |
 | Find address in the footer                            |                None                                 | I will find the address in the right hand side of the footer  | Works as expected |
 | Find address and map on the contact page              | Click contact in the navigation bar and scroll down |   I will find the location at the bottom of the page          | Works as expected |
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_2.jpg)
+<hr>
 
 3. As a first time user I want to be able to find the schedule to see what kinds of group workouts are offered and when.
 
 |                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
 |                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
 | Find schedule in the schedule page               | Click schedule in the navigation bar and scroll down  |   I will find the schedule as I scroll down                   | Works as expected |
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_3.jpg)
+<hr>
 
 4. As a first time user I want to know where I can find workout videos online.
 
@@ -335,6 +340,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 |                  :----------:                    |              :------------:                 |                     :-----------------:                               | :---------------: |
 | Find videos in the video page                    | Click videos in the navigation bar          |   I will find the videos when I land on the video page                | Works as expected |
 | Find link to videos in online training section   | Scroll down                                 |   I will find a video link in the text section *online training*      | Works as expected |
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_4_8.jpg)
+<hr>
 
 5. As a first time user I need to come in contact with a personal trainer.
 
@@ -343,18 +350,24 @@ I struggled for a time with the contrast of the colors as well, but after some t
 | Find personal trainer info with contact link on second image of carousel  |  Scroll down and click contact | I will find the number for customer service on contact page      | Works as expected |
 | Find contact info and link in footer                                      |  None                          | I will find customer service in the left hand side of the footer | Works as expected |
 | Find contact link in navigation bar                                       | Click contact in the navigation bar |I will find the number for customer service on contact page | Works as expected |
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_5_9.jpg)
+<hr>
 
 6. As a first time user I want to find MyGyms social media accounts so I can see how often they update their content.
 
 |                     Feature                      |              Action                                   |                       Expected result                            |   Actual result   |
 |                  :----------:                    |              :------------:                           |                     :-----------------:                          | :---------------: |
 | Find social media in the footer                  |                None                                   |   I will find social media links on the left side of the footer  | Works as expected |
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_6_12.jpg)
+<hr>
 
 7. As a regular user I want to be able to book group workouts.
 
 |                     Feature                      |              Action                                   |                       Expected result                         |   Actual result   |
 |                  :----------:                    |              :------------:                           |                     :-----------------:                       | :---------------: |
 | Find booking form in the schedule page           | Click schedule in the navigation bar                  |   I will find the form above the schedule                     | Works as expected |
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_7.jpg)
+<hr>
 
 8. As a regular user I want to have easy access to workout videos when I am ready to workout.
 
@@ -362,6 +375,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 |                  :----------:                    |              :------------:                         |                     :-----------------:                              | :---------------: |
 | Find videos in the videos page                   | Click videos in the navigation bar                  |   I will find more videos as I scroll down                           | Works as expected |
 | Find link to videos in online training section   | Scroll down                                         |   I will find a video link in the text section *online training*     | Works as expected |
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_4_8.jpg)
+<hr>
 
 9. As a regular user I want to find the contact info to be able to speak to a personal trainer.
 
@@ -370,6 +385,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 | Find personal trainer info with contact link on second image of carousel  |  Scroll down and click contact | I will find the number for customer service on contact page      | Works as expected |
 | Find contact info and link in footer                                      |  None                          | I will find customer service in the left hand side of the footer | Works as expected |
 | Find contact link in navigation bar                                       | Click contact in the navigation bar |I will find the number for customer service on contact page | Works as expected |
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_5_9.jpg)
+<hr>
 
 10. As a regular user I want to be able to ask MyGym questions.
 
@@ -378,6 +395,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 | Find contact link on second image of carousel               |  Scroll down and click contact      | I will find a question form on the contact page                     | Works as expected |
 | Find contact info and link in footer                        |  None                               | I will find customer service in the left hand side of the footer    | Works as expected |
 | Find contact link in navigation bar                         | Click contact in the navigation bar | I will find a question form on the contact page                     | Works as expected |
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_10.jpg)
+<hr>
 
 11. As a regular user I want to find out more about Athlean X.
 
@@ -386,12 +405,16 @@ I struggled for a time with the contrast of the colors as well, but after some t
 | Find info and link for *Athlean X* on third image of carousel | Scroll down | as I scroll down I will find the image and text and if I click the link I arrive at *Athlean X* site  | Works as expected |
 | Find link to *Athlean X* in online training section           | Scroll down | I will find an *Athlean X* link in the text section *online training*                                 | Works as expected |
 | Find *Athlean X* link in the footer                           | None        | I will find an *Athlean X* link on the right side in the footer                                       | Works as expected |
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_11.jpg)
+<hr>
 
 12. As a regular user and want to have easy access to MyGyms social media so I can see when they release a new video.
 
 |                     Feature                      |              Action                                   |                       Expected result                            |   Actual result   |
 |                  :----------:                    |              :------------:                           |                     :-----------------:                          | :---------------: |
 | Find social media in the footer                  |                None                                   |   I will find social media links on the left side of the footer  | Works as expected |
+[Screenshot for user story](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/features/user_story_6_12.jpg)
+<hr>
 
 ## Bugs
 
