@@ -431,6 +431,12 @@
      width: 80%;
      height: 100%;
 }
+/* 404.html */
+ #not-found {
+     padding: 20%;
+     text-align: center;
+     font-size: 100%;
+ }
 /* Media Queris */
  @media screen and (max-width: 1200px) {
     /* Nav bar */
