@@ -160,9 +160,9 @@
 }
  #group-training-column-text {
      float: left;
-     margin: 5% 0 0 5%;
+     margin: 1% 0 0 5%;
      width: 20%;
-     font-size: 75%;
+     font-size: 100%;
      text-align: center;
 }
  #group-training-column-image {
@@ -180,16 +180,16 @@
      float: left;
 }
  #online-training-column-text {
-     margin: 15% 5% 12% 0;
-     width: 50%;
-     font-size: 80%;
+     margin: 12% 2% 12% 8%;
+     width: 40%;
+     font-size: 100%;
      text-align: center;
 }
  #online-training-column-text a {
      color: rgb(129, 6, 6);
 }
  #online-training-column-image {
-     margin: 2% 0 12% 5%;
+     margin: 2% 0 12% 2%;
      width: 40%;
      border: 1px solid white;
 }
@@ -455,6 +455,14 @@
      #online-training-column-image {
          margin-bottom: 18%;
     }
+    #online-training-column-text {
+        font-size: 90%;
+    }
+    /* Group training */
+     #group-training-column-text {
+        font-size: 83%;
+        margin-top: 0;
+    }
     /* Footer */
      footer {
          font-size: 80%;
@@ -503,7 +511,7 @@
    .navbar-toggler {
     background-color: white;
     color: black;
-}
+    }
     /* Carousel */
      .carousel-text {
          font-size: 100%;
@@ -520,7 +528,7 @@
          clear: both;
          margin: 3% 15% 0 15%;
          width: 70%;
-         font-size: 80%;
+         font-size: 100%;
          text-align: center;
     }
      #group-training-column-image {
@@ -539,6 +547,7 @@
          margin: 15% 0 130px 0;
          width: 40%;
          text-align: center;
+         font-size: 100%;
     }
      #online-training-column-image {
          margin: 15px 0 18% 5%;

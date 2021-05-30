@@ -434,6 +434,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * The navigation bar did not center. I fixed it by using justify content and margins.
 
+* Fixed better performance score by replacing jquery and bootstap for newer versions
+
 ### Known bugs
 
 * Cant sign in to the page. This will be implemented in the future.
