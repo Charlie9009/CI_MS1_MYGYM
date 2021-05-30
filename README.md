@@ -436,6 +436,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * Fixed better performance score by replacing jquery and bootstap for newer versions
 
+* The online-training section and group-section pushed eachother down. I fixed it by changing the font size and margins in both full size and responsive rules.
+
 ### Known bugs
 
 * Cant sign in to the page. This will be implemented in the future.
