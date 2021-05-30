@@ -45,11 +45,6 @@
  #logo a:hover {
      border-bottom: 3px solid white;
 }
-/* Nav and Schedule */
- .bg-blue {
-     background-color: rgb(146, 170, 214);
-     color: white;
-}
 /* Navigation Links */
  nav {
      float: left;
@@ -58,15 +53,15 @@
      font-weight: bold;
      margin: auto auto;
 }
+ .center-nav-bar {
+    justify-content: center;
+    margin: 0 auto;
+}
  #nav-color .my-nav {
      background-color: rgb(146, 170, 214);
      color: black;
      text-align: center;
      font-size: 125%;
-}
- .navbar-toggler {
-     background-color: white;
-     color: black;
 }
  .my-nav a:hover {
      border-bottom: 1px solid black;
@@ -505,6 +500,10 @@
     #nav-color .my-nav {
         font-size: 100%;
    }
+   .navbar-toggler {
+    background-color: white;
+    color: black;
+}
     /* Carousel */
      .carousel-text {
          font-size: 100%;
