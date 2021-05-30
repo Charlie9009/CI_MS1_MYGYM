@@ -432,10 +432,23 @@
      height: 100%;
 }
 /* 404.html */
- #not-found {
+ #not-found-text {
+     margin-bottom: 50px;
      padding: 20%;
      text-align: center;
      font-size: 100%;
+     color: white;
+ }
+ #not-found-image {
+     background-image: url(/assets/images/404.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+ }
+ #not-found-home-link {
+     text-align: center;
+     color: white;
+     font-size: 200%;
  }
 /* Media Queris */
  @media screen and (max-width: 1200px) {
