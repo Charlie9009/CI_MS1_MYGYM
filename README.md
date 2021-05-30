@@ -424,6 +424,10 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * I used Iframes for the videos in this project and I had paragraphs within those Iframes "*Sorry, your browser does not support Iframes*". But text within the Iframes did not go thru the validator so I removed them.
 
+* The navigation bar did not push the other content down when opening. I fixed it by setting the logo and the navigation bar height to % instead of pixels.
+
+* I had issues with aria-labelledby for the login modal when running the validation. I fixed it by changing it to loginModal.
+
 ## Deployment
 
 * *The site was deployed to github pages.*
@@ -464,6 +468,10 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * Code for the Schedule was used from [bootdey](https://www.bootdey.com/snippets/view/time-table#html). It was restyled in CSS.
 
+* Code for the hamburger navigation bar was used from [mdbootstrap](https://mdbootstrap.com/docs/b4/jquery/navigation/hamburger-menu/)
+
+* Favicon icon was taken from [Favicon](https://favicon.io/emoji-favicons/flexed-biceps)
+
 * All the code besides the code mentioned above was written by me.
 
 ## Media Credit
@@ -477,6 +485,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 * https://freemotionfitness.com/fusion-team-training/
 
 * https://athleanx.com/
+
+* https://4kwallpaper.wiki/fitness-desktop-wallpapers.html
 
 ### Videos were used from Athlean X
 
