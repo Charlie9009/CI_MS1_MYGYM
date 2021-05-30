@@ -647,6 +647,9 @@
      iframe {
          width: 100%;
     }
+    .row, .video-column-left, .video-column-right {
+        margin-bottom: 15%;
+    }
     /* Question Form */
      .question-form {
          height: 550px;
