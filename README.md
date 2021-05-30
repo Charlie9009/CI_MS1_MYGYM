@@ -244,6 +244,10 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
     * A section with information about every single group workout offered at the gym and a layout of how every session could look like.
 
+* **Login function**
+
+    * To be able to log in to the page to ghet access to other videos and content.
+
 ## Technologies used
 
 ### Languages
@@ -427,6 +431,12 @@ I struggled for a time with the contrast of the colors as well, but after some t
 * The navigation bar did not push the other content down when opening. I fixed it by setting the logo and the navigation bar height to % instead of pixels.
 
 * I had issues with aria-labelledby for the login modal when running the validation. I fixed it by changing it to loginModal.
+
+* The navigation bar did not center. I fixed it by using justify content and margins.
+
+### Known bugs
+
+* Cant sign in to the page. This will be implemented in the future.
 
 ## Deployment
 
