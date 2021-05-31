@@ -446,6 +446,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * Cant sign in to the page. This will be implemented in the future.
 
+* In Internet explorer, on the schedule page there are borders on some of the workouts.
+
 ## Deployment
 
 * *The site was deployed to github pages.*
