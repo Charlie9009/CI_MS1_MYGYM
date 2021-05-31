@@ -479,13 +479,10 @@ legend {
      #container-contact-info {
          margin-left: 5%;
     }
-    legend {
-        font-size: 130%;
-    }
     /* Form */
      .question-form {
          margin-right: 5%;
-         width: 50%;
+         width: 55%;
     }
      #question {
          width: 190%;
@@ -575,8 +572,8 @@ legend {
     /* Form */
      .question-form {
          clear: both;
-         margin: 10px 15%;
-         width: 70%;
+         margin: 10px 10%;
+         width: 80%;
     }
      .name-email-form {
          width: 50%;
