@@ -440,6 +440,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * The contact form on the contact page had a bug where the textarea did not size properly in internet explorer. I fixed it by making the container for the question form bigger.
 
+* In the video page Internet explorer cut the two bottom videos, It did not apply margins because of flexbox. I fixed it by adding a css rule *display flexbox* for html and *width 100%* for the body.
+
 ### Known bugs
 
 * Cant sign in to the page. This will be implemented in the future.
