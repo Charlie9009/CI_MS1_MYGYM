@@ -19,6 +19,10 @@
  a {
      color: rgb(255, 255, 255);
 }
+/* Legend for forms */
+legend {
+    text-align: center;
+}
 /* Logo, Nav, loginbutton */
  #outer-logo, nav, #outer-login-button, #login-button {
      text-transform: uppercase;
