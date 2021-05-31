@@ -308,9 +308,11 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 ## Further testing
 
-* The website has been inspected thru the device toolbar in chrome.
+* The website has been tested and are compatible in browsers Chrome, Firefox, Edge and Internet explorer.
 
 * I have tested the website thru phones like One Plus 8T and Iphone XR.
+
+* The site has been tested on numerous of computers and laptops.
 
 * Friends and family has been asked to review the site.
 
