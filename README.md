@@ -448,6 +448,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * In the video page Internet explorer cut the two bottom videos, It did not apply margins because of flexbox. I fixed it by adding a css rule *display flexbox* for html and *width 100%* for the body.
 
+* The footer had to much information so I styled the responsiveness to remove contact info, Athlean X and address info. Instead I kept the Contact link which gets you to the Contact page and also the social media icons which are only present in the footer.
+
 * 404 page did not work so I created a 404.md file. Image did not work on 404 page either and it wa fixed with the correct filepath.
 
 ### Known bugs
