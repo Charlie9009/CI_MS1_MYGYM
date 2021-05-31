@@ -444,7 +444,7 @@ legend {
      color: white;
  }
  #not-found-image {
-     background-image: url('/assets/images/404.jpg');
+     background-image: url('../images/404.jpg');
      background-repeat: no-repeat;
      background-size: cover;
      background-attachment: fixed;
