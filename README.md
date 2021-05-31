@@ -438,6 +438,10 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * I had issues with aria-labelledby for the login modal when running the validation. I fixed it by changing it to loginModal.
 
+* Throughout the project I had a lot of contrast errors when testing it towards *Wave Web Validator*. Especially in the Schedule where I have personal colors for every workout, I solved it by darkening some of the workout colors and switching some.
+
+* I also had contrast errors in the Carousel, because of the different colors in the images I had to test out quite a few colors. In the end I found some that I liked and worked.
+
 * The navigation bar did not center. I fixed it by using justify content and margins.
 
 * Fixed better performance score by replacing jquery and bootstap for newer versions
@@ -450,7 +454,7 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * The footer had to much information so I styled the responsiveness to remove contact info, Athlean X and address info. Instead I kept the Contact link which gets you to the Contact page and also the social media icons which are only present in the footer.
 
-* 404 page did not work so I created a 404.md file. Image did not work on 404 page either and it wa fixed with the correct filepath.
+* 404 page did not work so I created a 404 md file. Image did not work on 404 page either and it was fixed with the correct filepath.
 
 ### Known bugs
 
