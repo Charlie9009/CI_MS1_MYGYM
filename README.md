@@ -438,6 +438,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * The online-training section and group-section pushed eachother down. I fixed it by changing the font size and margins in both full size and responsive rules.
 
+* The contact form on the contact page had a bug where the textarea did not size properly in internet explorer. I fixed it by making the container for the question form bigger.
+
 ### Known bugs
 
 * Cant sign in to the page. This will be implemented in the future.
