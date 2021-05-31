@@ -442,6 +442,8 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * In the video page Internet explorer cut the two bottom videos, It did not apply margins because of flexbox. I fixed it by adding a css rule *display flexbox* for html and *width 100%* for the body.
 
+* 404 page did not work so I created a 404.md file. Image did not work on 404 page either and it wa fixed with the correct filepath.
+
 ### Known bugs
 
 * Cant sign in to the page. This will be implemented in the future.
