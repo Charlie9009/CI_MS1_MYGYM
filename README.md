@@ -460,7 +460,9 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * Cant sign in to the page. This will be implemented in the future.
 
-* In Internet explorer, on the schedule page there are borders on some of the workouts.
+* In Internet explorer, on the schedule page there are small white borders beneath some of the workouts.
+
+* In Firefox the text on the site can appear a bit smudged in some places.
 
 ## Deployment
 
@@ -507,6 +509,10 @@ I struggled for a time with the contrast of the colors as well, but after some t
 * Favicon icon was taken from [Favicon](https://favicon.io/emoji-favicons/flexed-biceps)
 
 * Credit for layout reference to [Code Institutes](https://codeinstitute.net/) readme template, my mentor Mo and another student [Tara Rhoseyn](https://github.com/TaraRhoseyn/CI_MS1_CardiffSwimCentre)
+
+* Credit to Code Institute for the formdump used in my forms.
+
+* Credit to [Athlean X](https://athleanx.com/) and **Jeff Cavaliere** founder of Athlean X for videos.
 
 * All the code besides the code mentioned above was written by me.
 
