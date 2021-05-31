@@ -246,7 +246,7 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 * **Login function**
 
-    * To be able to log in to the page to ghet access to other videos and content.
+    * To be able to log in to the page to get access to other videos and content.
 
 ## Technologies used
 
@@ -258,7 +258,7 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 ## Libraries and programs
 
-* To get the "Modal Log in pop up window" to work, Bootstrap 4.1.3, jQuery and Popper JS was used.
+* To get the "Modal Log in pop up window" to work, Bootstrap, jQuery and Popper JS was used.
 
 * Font Awesome icons where used for social media in the footer.
 
@@ -428,21 +428,21 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 ## Bugs
 
-* For a while I had problems with the bootstrap and Javascript overriding my own CSS rules. I fixed it by placing my CSS stylesheet beneath the other links to have more priority.
+* For a while I had problems with the bootstrap and Javascript overriding my own CSS rules. I fixed it by placing my CSS stylesheet beneath the other stylesheet links to have more priority.
 
 * The code for the carousel had an extra incomplete div tag which I removed.
 
-* I used Iframes for the videos in this project and I had paragraphs within those Iframes "*Sorry, your browser does not support Iframes*". But text within the Iframes did not go thru the validator so I removed them.
+* I used Iframes for the videos in this project and I had paragraphs within those Iframes "*Sorry, your browser does not support Iframes*". But text within the Iframes did not go thru the validators so I removed them.
 
-* The navigation bar did not push the other content down when opening. I fixed it by setting the logo and the navigation bar height to % instead of pixels.
+* On smaller screens the hamburger navigation bar did not push the other content down when opening. I fixed it by setting the logo and the navigation bar height to % instead of pixels.
 
-* I had issues with aria-labelledby for the login modal when running the validation. I fixed it by changing it to loginModal.
+* The navigation bar did not center. I fixed it by using justify content and margins.
+
+* I had issues with aria-labelledby for the login modal when running the validators. I fixed it by changing it to loginModal.
 
 * Throughout the project I had a lot of contrast errors when testing it towards *Wave Web Validator*. Especially in the Schedule where I have personal colors for every workout, I solved it by darkening some of the workout colors and switching some.
 
-* I also had contrast errors in the Carousel, because of the different colors in the images I had to test out quite a few colors. In the end I found some that I liked and worked.
-
-* The navigation bar did not center. I fixed it by using justify content and margins.
+* I also had contrast errors in the Carousel, because of the different colors in the images I had to test out quite a few colors. In the end I chose to pick different text colors for all the Carousel images.
 
 * Fixed better performance score by replacing jquery and bootstap for newer versions
 
