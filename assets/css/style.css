@@ -479,6 +479,9 @@ legend {
      #container-contact-info {
          margin-left: 5%;
     }
+    legend {
+        font-size: 130%;
+    }
     /* Form */
      .question-form {
          margin-right: 5%;
