@@ -134,9 +134,9 @@ legend {
 }
 /* Carousel */
  #carousel {
-     margin: 1% 10%;
-     max-width: 100%;
-     max-height: 100%;
+     margin: 1% 15%;
+     width: 70%;
+     height: 70%;
      clear: both;
      border: 1px solid white;
 }
