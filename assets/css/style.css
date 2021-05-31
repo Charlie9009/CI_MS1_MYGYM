@@ -448,6 +448,7 @@ legend {
      background-repeat: no-repeat;
      background-size: cover;
      background-attachment: fixed;
+     clear: both;
  }
  #not-found-home-link {
      text-align: center;
