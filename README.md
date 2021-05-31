@@ -300,7 +300,7 @@ I struggled for a time with the contrast of the colors as well, but after some t
 
 #### Performance 
 
-* Lighthouse was used to test the performance and the speed of the site. I managed to get the Home and Schedule page to 100% on all points. The Contact page was a little lower with the lowest score on 93% on best practices. Videos got the lowest score on best practices at 87% due to the linked youtube videos.
+* Lighthouse was used to test the performance and the speed of the site. I managed to get the Home and Schedule page to 100% on all points. The Contact page was not 100% but still pretty good. Videos got the lowest score on best practices at 87% due to the linked youtube videos.
 [Home](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/lighthouse_index.jpg)
 [Schedule](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/lighthouse_schedule.jpg)
 [Videos](https://github.com/Charlie9009/CI_MS1_MYGYM/blob/master/docs/validation/lighthouse_videos.jpg)
